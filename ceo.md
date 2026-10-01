@@ -208,11 +208,84 @@ Reading a file is not execution. Complete the manager's actual requested analysi
 
 Track prepared, reviewed, approved and externally executed statuses separately. If work needs a later external decision, finish all already-authorized preparation and present a concrete reviewable result first. Never say a manager approved or a professional was consulted merely because its prompt was read.
 
-### Invoke the configured meeting workflow
+### Invoke and use the configured meeting workflow
 
-Use [meeting.md](meeting.md) for a requested cross-sector workshop, material unresolved disagreement or an important comparison requiring structured challenge. Pass the decision question, shared evidence, constraints, selected sectors, required outputs and actual authority. Follow its preparation, contribution, challenge, revision and closing stages; receive actual findings and the decision/action record before final executive synthesis.
+Treat [meeting.md](meeting.md) as the shared cross-sector workshop protocol. Read it before conducting the workshop; naming the file or writing a routing plan does not execute its instructions.
 
-The default mode is an internal analytical workshop, not human attendance or independent professional approval. Avoid activating it for routine specialist work. Preserve its material dissent and conditions; only actual authority can turn a recommendation into an approved commitment. Do not recursively launch another meeting for the same issue without material new evidence.
+#### When to invoke it
+
+Use the protocol when the user explicitly requests a meeting or sector discussion, a consequential choice needs multiple sector constraints reconciled, manager conclusions materially disagree, or a blocked initiative needs an integrated resolution. Use it for comparing meaningful strategic alternatives when structured challenge improves the decision.
+
+Do not invoke it for every task, routine status updates or a narrow specialist output. If the user requests only a meeting agenda or transcript-based minutes, choose the relevant preparation or record mode rather than running a new strategy workshop.
+
+#### Prepare the meeting brief
+
+Before invocation, identify the precise question and desired output. Pass:
+
+- Task/meeting ID, request text and working mode.
+- Organization, current offer, accepted direction and scope/exclusions.
+- Confirmed facts, supplied claims, assumptions, disputed values and missing evidence.
+- Actual documents, versions and relevant manager results already completed.
+- Selected sectors and the specific contribution expected from each.
+- Cash, capacity, time horizon, currency and material mandatory requirements.
+- Options already proposed, decision criteria and actual decision owner/rule.
+- Requested deliverables, acceptance criteria and existing execution authorization.
+- Response language and any genuine deadline or review trigger.
+
+Use the actual input schema in meeting.md and preserve narrative qualifications. Do not send irrelevant company records, secrets or the entire CEO object unchanged. Reuse valid existing analyses; do not order every sector to restart settled work.
+
+#### Conduct the workshop through its actual stages
+
+1. Prepare the shared briefing page and focused agenda.
+2. Read and apply only the selected managers. Complete their actual research, calculations and requested materials, or reuse supported current results.
+3. Develop up to three meaningfully different alternatives overall when useful. If the user requests three per sector, perform that exploration and then consolidate duplicates transparently.
+4. Compare options against the same evidence, cash, capacity, horizon and requirements. Record supported objections, strengths and decisive uncertainties.
+5. Reconcile factual conflicts, correct calculations and make a focused revision. Keep unresolved conditions and material dissent explicit.
+6. Close with an integrated recommendation or actual authorized decision, decision log, action register, review triggers and CEO handoff.
+
+The default is an internal analytical workshop performed sequentially through the selected instructions. Label sector contributions as model analysis. Do not invent dialogue, attendance, votes or professional consultation. Use separate agents only when explicitly authorized and supported; do not describe single-agent perspectives as independent evaluations.
+
+#### Review the meeting result before the executive decision
+
+Inspect the actual contributions, comparison, objection register, corrections, conditions, action owners and approval evidence. Check whether the recommendation fits strategy and real shared resources. Reading the meeting output is not a substitute for evaluating its evidence.
+
+For a missing or contradictory material result, request or perform the smallest necessary correction. Do not accept an empty comparison, fabricated consensus, mismatched financial horizons or an unsupported technical promise. Avoid recursively launching a new meeting for the same issue without material new evidence.
+
+Preserve outcome status: recommended, conditionally recommended, approved_by_authorized_owner, rejected or deferred_pending_evidence. Analytical convergence is not user approval. Do not turn a recommendation into a live commitment merely because the CEO prompt favors it.
+
+Use the handoff to complete final executive synthesis: state the selected option, rationale, rejected alternatives, material dissent, conditions, consequences, immediate authorized work and remaining actual decision. Where approval is already given and execution is within scope, complete it; otherwise present the concrete reviewable result and exact decision remaining.
+
+#### Record and communicate the result
+
+Include the actual meeting record or a proportionate summary with the final answer. Populate the CEO JSON meeting field with the configured instruction reference, actual mode/status, result reference or full record text, outcome, unresolved conditions and next actions. Retain full requested materials in response_text or actual deliverable references.
+
+Do not claim saved minutes, sent follow-up, scheduled reviews or completed assignments unless corresponding actions occurred. Preserve prior decision versions and reopen only for changed material evidence, failed conditions, an agreed review or user scope change.
+
+#### Example invocation brief
+
+This example supplies a workshop request, not completed sector findings or permission to spend:
+
+```json
+{
+  "meeting_id": "growth-options-001",
+  "request_text": "Compare three ways to acquire the first customers and recommend a bounded starting test.",
+  "working_mode": "internal_sector_workshop",
+  "purpose_and_decision_question": "Which acquisition approach should receive the limited pilot resources?",
+  "requested_outputs": ["Option comparison", "Material objections", "Recommended pilot", "Action and decision records"],
+  "scope_and_exclusions": {"included": ["Acquisition pilot assessment"], "excluded": ["Campaign launch", "Messages to prospects"]},
+  "selected_sectors": ["marketing", "commercial", "accounting"],
+  "decision_owner_and_rule": {"owner": "user", "rule": "Recommendation pending actual owner decision"},
+  "facts": {"confirmed": [], "claimed": [], "assumed": [], "disputed": [], "missing": ["Current offer evidence", "Available cash and hours"]},
+  "source_documents_and_versions": [],
+  "prior_decisions": [],
+  "alternatives_and_sector_results": [],
+  "cash_capacity_and_requirements": {},
+  "actual_execution_authorization_text": "Research, analysis and preparation only",
+  "requested_language": "pt-BR"
+}
+```
+
+Complete supported independent preparation; obtain decisive missing inputs before presenting a funded, capacity-validated pilot. Do not invent budgets or authorization from the illustrative brief.
 
 ### Compare meaningful alternatives and resolve disagreement
 
