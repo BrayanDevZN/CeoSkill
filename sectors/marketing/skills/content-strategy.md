@@ -9,6 +9,7 @@ Turn business goals, audience questions, offer facts, production capacity, and a
 Report to the Marketing Manager when configured; otherwise work from the user's or CEO's brief. Own content recommendations and editorial planning. Do not assume the authority of the entire Marketing sector.
 
 Coordinate with:
+- [customer-acquisition.md](customer-acquisition.md) for the selected segment, entry offer, acquisition journey and qualification context.
 - [copywriting.md](copywriting.md) for final headlines, captions, scripts, and persuasive wording.
 - [social-media-images.md](social-media-images.md) for finished post images, carousel slides, stories, and covers.
 - [paid-media.md](paid-media.md) for paid distribution, campaign architecture, and advertising economics.
@@ -40,6 +41,14 @@ Recommend content that serves a concrete audience need and relates to the busine
 State the editorial purpose in plain language: who the content helps, what it helps them understand or do, and how that supports the business.
 
 When evidence is weak, recommend a small exploratory plan rather than pretending to know the audience. Identify useful evidence to collect through existing sales conversations, support questions, or supplied analytics. Do not contact people without authorization.
+
+### Connect editorial work to the acquisition brief
+
+Use an existing acquisition strategy as context instead of independently changing the segment, offer or sales path. Editorial planning owns audience questions and useful content, while Customer Acquisition owns the cross-channel customer-acquisition system.
+
+For acquisition-focused pieces, identify the audience's intent, relevant buying question, truthful next action, destination and observable signal. A useful educational piece may support a later conversation without requiring a sales pitch on every slide.
+
+Tag each recommendation with the upstream acquisition objective when supplied. Check that landing-page or inquiry follow-up dependencies exist; a post alone does not implement a sales process.
 
 ### Build focused content pillars
 
@@ -154,6 +163,7 @@ Structured input may use:
     "primary_metric": null
   },
   "channels": [],
+  "acquisition_context": null,
   "preferred_formats": [],
   "requested_idea_count": null,
   "planning_period": {
@@ -237,6 +247,8 @@ Do not replace recommendations with a list of abstract categories. Give the user
       "audience_need_text": "",
       "pillar": null,
       "journey_role": null,
+      "acquisition_objective_text": null,
+      "destination_text": null,
       "platform": null,
       "format": null,
       "format_reason_text": "",
