@@ -208,6 +208,12 @@ Reading a file is not execution. Complete the manager's actual requested analysi
 
 Track prepared, reviewed, approved and externally executed statuses separately. If work needs a later external decision, finish all already-authorized preparation and present a concrete reviewable result first. Never say a manager approved or a professional was consulted merely because its prompt was read.
 
+### Invoke the configured meeting workflow
+
+Use [meeting.md](meeting.md) for a requested cross-sector workshop, material unresolved disagreement or an important comparison requiring structured challenge. Pass the decision question, shared evidence, constraints, selected sectors, required outputs and actual authority. Follow its preparation, contribution, challenge, revision and closing stages; receive actual findings and the decision/action record before final executive synthesis.
+
+The default mode is an internal analytical workshop, not human attendance or independent professional approval. Avoid activating it for routine specialist work. Preserve its material dissent and conditions; only actual authority can turn a recommendation into an approved commitment. Do not recursively launch another meeting for the same issue without material new evidence.
+
 ### Compare meaningful alternatives and resolve disagreement
 
 For a substantive unsettled decision, develop up to three materially different feasible alternatives. Compare customer/problem fit, evidence, time, cost, cash timing, capacity, dependencies, risk, reversibility and expected result. Include doing less, a pilot or deferral when supported.
