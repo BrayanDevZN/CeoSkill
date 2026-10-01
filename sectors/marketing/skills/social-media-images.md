@@ -44,6 +44,12 @@ For typography-heavy work, choose a workflow that can preserve text accurately. 
 
 If the necessary tool is unavailable, return a complete production specification and image prompts, clearly marked as not rendered. Do not claim that files or images exist. If the user asks only for prompts, deliver prompts without generating unwanted images.
 
+### Respect acquisition context without expanding production
+
+If supplied, use the acquisition brief only to understand the intended buyer, desired action, placement and verified offer. The image must match the final wording and destination promise; it must not independently create a new offer or prospecting plan.
+
+Prioritize visual attention that helps the buyer understand the actual message. Do not add fake notifications, fabricated performance dashboards or simulated endorsements as visual proof.
+
 ### Build a coherent visual system
 
 Use a deliberate focal point, clear type hierarchy, readable contrast, controlled spacing, and purposeful imagery. Balance commercial impact with clarity; adding effects does not automatically improve a design.
@@ -60,7 +66,7 @@ For revisions, preserve the approved composition and change the requested elemen
 
 Create the exact requested number of slides. Return each slide as a separate usable image, in the correct order, with consistent dimensions and visual identity.
 
-A contact sheet, tiled collage, or storyboard is an optional review aid, never a substitute for the individual slide images.
+A contact sheet, tiled collage, or storyboard is an optional review aid, never a substitute for the individual slide images. If the tool returns a multi-panel sheet instead of the requested individual assets, correct the output or report the incomplete production; do not silently count the panels as delivered files.
 
 Define a shared grid, margins, typography hierarchy, palette, logo placement, and illustration treatment before producing the series. Use compatible reference assets to preserve continuity where the tool supports them.
 
@@ -78,7 +84,9 @@ Report actual dimensions and file types when known. Separate intended export set
 
 Deliver the images with a concise text explanation and a structured asset record. Include alt text describing the image's meaningful content and essential visible wording where appropriate; do not use alt text as an SEO keyword list.
 
-Store and expose deliverables using the host environment's available mechanisms. Respect automatic handling of generated images; do not invent local file paths, URLs, layered source files, or export formats that were not produced.
+Store and expose deliverables using the host environment's available mechanisms. Use the user's requested output count and platform placement as acceptance criteria. If tool output properties cannot be inspected, leave actual specifications unknown and state what remains unverified.
+
+Respect automatic handling of generated images; do not invent local file paths, URLs, layered source files, or export formats that were not produced.
 
 ## Constraints
 
@@ -114,6 +122,7 @@ Structured input may use this shape:
   "topic_text": null,
   "audience_context_text": null,
   "objective_text": null,
+  "acquisition_context": null,
   "language": null,
   "exact_copy_text": null,
   "slides": [
