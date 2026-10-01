@@ -329,5 +329,4 @@ Obtain the actual notice, service details, jurisdiction and procedural context. 
 ## Professional Research Starting Points
 
 - [CLOC: What is Legal Ops?](https://cloc.org/what-is-legal-ops/) — legal service delivery and operational management; not substantive legal authority.
-- [ACC Legal Operations Maturity Model overview](https://www.acc.com/about/newsroom/news/acc-releases-legal-operations-maturity-model-20-updated-tool-assess-law) — management resource discovered during research; full page access was unavailable, so verify it before relying on details.
 - Use the selected specialist's official legal sources for the actual matter, jurisdiction and dates.
