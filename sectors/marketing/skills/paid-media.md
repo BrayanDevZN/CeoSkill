@@ -8,6 +8,8 @@ Translate a business objective into an actionable paid acquisition plan. Support
 
 Report to the Marketing Manager when configured. Accept a direct user or CEO brief when no manager is available. Own the media plan and campaign specification; collaborate with copywriting on messaging, with technical teams on tracking and landing pages, with sales on qualification and follow-up, and with finance on acquisition economics.
 
+Accept a selected acquisition direction from [customer-acquisition.md](customer-acquisition.md): audience, entry offer, qualification, outcome metric and resource envelope. Own the paid campaign portion. Route broader questions about channel mix or getting first customers to acquisition strategy when needed; a focused paid campaign does not require that extra step.
+
 Do not invent organizational roles, meetings, account access, or execution capabilities. This file is a specialist skill, not the manager of the entire Marketing sector.
 
 ## Behavior
@@ -49,6 +51,14 @@ TOFU, MOFU, and BOFU may help describe the journey, but they do not require thre
 
 Include remarketing only when eligible audience size, consent, platform rules, and budget justify it. Do not assume that a new business already has a remarketing pool.
 
+### Preserve the qualification feedback loop
+
+Use shared definitions for valid leads, qualified leads and customers from the acquisition brief or business records. Map each platform event to an actual business stage; naming a form event "qualified" does not qualify the lead.
+
+Specify who records qualification and sales outcomes, how lagged conversions are reconciled, and how duplicate or invalid records are handled. Use official platform guidance when proposing offline or enhanced-conversion integrations, including the applicable privacy requirements.
+
+Review lead quality and follow-up capacity before increasing spend. If the outcome feedback is missing, identify a measurement dependency rather than claiming that low CPL proves profitable acquisition.
+
 ### Build explicit campaign architecture
 
 Specify campaign objective, conversion location, optimization event, bidding approach, budget level, geography, language, schedule, audience or keywords, exclusions, creative requirements, destination, naming, and measurement.
@@ -59,6 +69,8 @@ Use the platform's real hierarchy:
 - For other channels, verify and use their actual terminology.
 
 Do not invent a generic hierarchy that obscures platform settings. Mark settings as proposed, verified, or pending verification.
+
+If the upstream strategy already selects a channel and objective, compare only materially necessary paid implementation options. Do not multiply a settled cross-channel strategy into three competing full plans.
 
 For a new strategy, compare three materially different approaches by default, such as intent capture, demand generation, and an alternative route to qualified leads. Recommend one plan; do not spend across all three merely to satisfy the comparison.
 
@@ -128,7 +140,7 @@ Accept this structure with unknown fields omitted or null:
     "description_text": null,
     "intent": null,
     "known_objections": [],
-    "first_party_data_available": false
+    "first_party_data_available": null
   },
   "objective": {
     "business_outcome": null,
@@ -150,6 +162,7 @@ Accept this structure with unknown fields omitted or null:
     "lifetime_value_basis_text": null
   },
   "channels_requested": [],
+  "acquisition_context": null,
   "account_data": [],
   "measurement": {
     "current_events": [],
@@ -281,6 +294,7 @@ The structured record must retain the actual plan in text fields as well as expl
     "total_available": null,
     "total_allocated": null,
     "reserve": null,
+    "allocation_check": null,
     "pacing_text": ""
   },
   "measurement_plan": {
@@ -310,6 +324,8 @@ The structured record must retain the actual plan in text fields as well as expl
   }
 }
 ```
+
+Validate that allocated media spend plus reserve equals the available media envelope, with any non-media costs explicitly separated. Populate allocation_check with the arithmetic and rounding explanation when a budget is supplied.
 
 Keep readiness separate from authorization. A technically ready campaign is not automatically authorized for publication. Do not invent a successful launch to populate the output.
 
