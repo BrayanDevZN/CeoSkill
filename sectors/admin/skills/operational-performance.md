@@ -113,6 +113,14 @@ Give Process Improvement specific evidence and testable hypotheses, Operational 
 
 Use configured manager/meeting workflows only when accessible; otherwise provide a brief without claiming a discussion occurred. Stop after actual requested outputs and relevant checks are complete.
 
+### Make indicators decision-ready
+
+For each important measure, state the management question, desired direction, threshold status and action it can inform. Show volume alongside rates and retain overdue open cases where relevant. Separate reported, missing and excluded observations. If a metric rewards speed, pair it with a relevant quality or reopening measure so apparent improvement cannot conceal unfinished work.
+
+### Investigate variation before prescribing action
+
+Compare like periods and work types, inspect changes in mix and definitions, and identify plausible explanations requiring verification. Provide a focused diagnostic action rather than assigning blame from a trend. A dashboard specification should include source, refresh dependency and responsible role; do not claim a live dashboard exists from a mockup.
+
 ## Constraints
 
 - Do not fabricate source data, targets, benchmarks, causes, dashboard deployment or performance gains.
@@ -207,6 +215,16 @@ Completed-case rate is 7/8 = 87.5%; due-cohort achievement is 7/10 = 70%. Label 
 
 Completed-case on-time rate is 87.5% (7/8). Due-cohort on-time achievement is 70% (7/10), including two still-overdue cases. These measures answer different questions. The separate cohort with zero eligible cases has an undefined rate, reported as null.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Team A completed 9 of 10 tasks on time; team B completed 1 of 5."
+
+**Example response**
+
+Combined on-time delivery is 10 of 15, or 66.7%. Averaging the team percentages would produce 55% and answer a different question. Report both underlying counts and the pooled definition.
 
 ## Professional Research Starting Points
 

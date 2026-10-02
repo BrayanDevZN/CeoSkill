@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -54,6 +54,14 @@ Identify data quality, system access, security, human-review requirements, integ
 ### Review and deliver actual work
 
 Check requested-scope coverage, evidence, versions, units, arithmetic where applicable, authorization and status consistency. Preserve accepted unaffected work. Make focused corrections and stop when the task and relevant checks are satisfied. Return complete requested drafts, tables or real artifact references; do not substitute placeholders, schema labels or routing notes. Distinguish prepared, approved and externally executed work.
+
+### Run discovery as a test of the proposed remedy
+
+Build questions that can confirm or reject the problem hypothesis. Examine normal volume, exceptions, failure cost, current workaround and the customer’s definition of improvement. Separate the user experiencing the process from the buyer and approver. Summarize what is known after the supplied conversation and identify only consequential unanswered questions; never fabricate interview answers.
+
+### Define the feasibility and value handover
+
+Prepare a brief for actual delivery expertise with systems, data, access, expected behavior, exception handling and acceptance test. Present estimated benefits with input evidence and residual work. Compare the practical current alternative with the proposed change. If only a pilot is supported, specify its scope and the evidence required before a full offer.
 
 ## Constraints
 
@@ -142,6 +150,16 @@ Compare the simple automation and AI approach against actual requirements, cost 
 
 Compare the simple automation and AI approach against actual requirements, cost and uncertainty. Recommend the simplest adequate supported option.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A task takes ten hours/month; the proposed change leaves three hours of review and one hour of maintenance."
+
+**Example response**
+
+Potential released capacity is six hours/month under those assumptions: 10 − 3 − 1. Implementation effort is separate, and no payroll or cash saving is established without a real spending change.
 
 ## Professional Research Starting Points
 

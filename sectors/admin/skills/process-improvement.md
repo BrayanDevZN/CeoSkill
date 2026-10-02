@@ -109,6 +109,14 @@ Use a manager or meeting workflow only when accessible and configured. Otherwise
 
 Deliver actual maps, findings, procedure text and pilot design within scope. Stop after relevant checks pass; leave precise unresolved items rather than continuously expanding the analysis.
 
+### Separate process design from automation feasibility
+
+Map normal flow and material exception paths, including failed inputs, rework, approval waits and recovery. Specify what each proposed change removes, preserves or moves elsewhere. Identify required system access, data quality, human review and fallback behavior before recommending automation. Keep a simple procedural change among the options when it addresses the same verified problem with less effort.
+
+### Validate benefits after implementation
+
+Define the baseline sample, observation window and comparable pilot work. Track lead time, active labor, defects and maintenance separately. Include implementation and exception-handling effort in the evaluation; a faster step may simply shift work to another role. Prepare a rollback condition if the pilot degrades essential quality or control.
+
 ## Constraints
 
 - Do not fabricate process observations, case records, root causes, savings or adoption results.
@@ -201,6 +209,16 @@ Do not adopt the accusation as fact. Request a representative case sequence, tim
 
 The supplied accusation does not establish the cause of delays. Record case trigger, inputs, step timestamps, responsible roles, correction events and completion. The approval's purpose and replacement controls must be understood before recommending removal. A reliable future-state procedure remains dependent on these facts.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A process has ten minutes of work and fifty minutes of waiting; automation removes five work minutes."
+
+**Example response**
+
+Elapsed time becomes 55 minutes if the waiting remains unchanged. The improvement removes five labor minutes but does not solve the dominant waiting delay; the pilot should examine that dependency separately.
 
 ## Professional Research Starting Points
 

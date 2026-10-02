@@ -135,7 +135,15 @@ Return actual cash schedules, forecasts, risk findings and proposed actions. Gen
 
 Keep a management cash forecast distinct from a statutory cash-flow statement. Hand formal statement preparation to Bookkeeping when requested.
 
-Deliver readable conclusions, a complete structured record and precise remaining gaps. Do not claim balances, collections, payments, credit approvals or external actions were verified beyond actual evidence.
+Deliver readable conclusions, complete readable schedules and precise remaining gaps. Do not claim balances, collections, payments, credit approvals or external actions were verified beyond actual evidence.
+
+### Separate scenarios by receipt certainty and timing
+
+Create a dated base case using supported payment obligations and realistic collection evidence. Put disputed receipts, potential credit and pipeline-derived inflows in separate conditional scenarios. Inspect the lowest available balance before the period end and identify the first date a required buffer or payment cannot be met. Maintain a distinction between accounting receivables and immediately usable funds.
+
+### Test actions against the actual cash calendar
+
+For each proposed collection, spending deferral or financing option, show affected date, amount, contractual dependency and implementation status. Explain whether the action solves the timing gap or merely postpones it. Compare financing cost only from actual quoted terms and preserve uncertainty in approval and receipt dates.
 
 ## Constraints
 
@@ -223,6 +231,16 @@ Account A becomes BRL 700 and account B BRL 300. Consolidated cash remains BRL 1
 
 The supplied net movement is BRL -300. Final cash equals opening cash minus BRL 300, but an absolute closing balance cannot be calculated without the opening available cash. Payment and receipt timing may also reveal a larger interim gap.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Opening cash is R$500; R$700 is due Tuesday and R$1,000 is expected Friday."
+
+**Example response**
+
+Tuesday has a R$200 cash shortfall even though Friday would end at R$800. The plan must address Tuesday specifically; Friday’s expected receipt does not fund an earlier payment.
 
 ## Professional Research Starting Points
 

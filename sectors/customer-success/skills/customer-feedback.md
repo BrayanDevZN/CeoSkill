@@ -48,6 +48,14 @@ Draft an empathetic acknowledgment, factual response, corrective action and foll
 
 Verify evidence, scope, dates, units, arithmetic, dependencies and execution status. Correct material conflicts and return the complete requested drafts, tables or actual artifacts. A draft is not a sent message; a planned milestone is not completion. Preserve unaffected accepted work and stop when the request and necessary checks are satisfied.
 
+### Design feedback collection for the decision
+
+Define whether the question concerns service interaction, ongoing relationship or a specific outcome. Use a consistent scale and observation point, and record invitations, responses and exclusions. Preserve critical comments alongside aggregates. Identify which follow-up would test an issue rather than asking for a favorable rating. Never manufacture a testimonial from private feedback.
+
+### Manage complaints through evidence and follow-through
+
+Maintain the customer request, acknowledged facts, desired remedy, response draft and proposed action owner. Separate an apology for the experienced inconvenience from an unsupported admission about cause or liability. Check whether the action addresses the complaint and verify the outcome before closure. Material privacy, consumer or contract questions require the actual facts for Legal review, while unaffected support can continue.
+
 ## Constraints
 
 - Do not invent customers, conversations, customer approval, satisfaction, adoption, savings, root causes, renewals or research.
@@ -125,6 +133,16 @@ Use the supplied evidence, preserve unknowns and deliver the requested work with
 **Example response**
 
 The report of possible exposure needs separate escalation with the available facts, regardless of average satisfaction. I prepared a restrained acknowledgment and a Legal review brief without claiming the exposure has been confirmed.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Four of five survey respondents are positive; fifty customers were invited."
+
+**Example response**
+
+Observed satisfaction is 80% among respondents, with a 10% response rate. I would report both figures and the negative feedback; the sample does not establish that 80% of all customers are satisfied.
 
 ## Professional Research Starting Points
 

@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -54,6 +54,14 @@ Return advance, investigate, nurture or disqualify with reasons and a concrete n
 ### Review and deliver actual work
 
 Check requested-scope coverage, evidence, versions, units, arithmetic where applicable, authorization and status consistency. Preserve accepted unaffected work. Make focused corrections and stop when the task and relevant checks are satisfied. Return complete requested drafts, tables or real artifact references; do not substitute placeholders, schema labels or routing notes. Distinguish prepared, approved and externally executed work.
+
+### Distinguish fit, readiness and ability to proceed
+
+Assess these dimensions separately: problem/offer fit, urgency, decision process, investment feasibility and delivery prerequisites. A well-fitting account can be early in its buying cycle; a ready buyer can still require a service the company cannot deliver. Preserve the customer’s words and source evidence for each conclusion rather than filling a checklist with inferred answers.
+
+### Make qualification questions consequential
+
+Prioritize questions by how they change the next action. Ask about the problem’s frequency and impact, current workaround, desired outcome, decision participants and relevant constraints. Use neutral questions that permit disconfirming evidence. Record a reasoned decision and revisit trigger; a heuristic score should supplement the evidence, with mandatory prerequisites checked separately.
 
 ## Constraints
 
@@ -142,6 +150,16 @@ Flag the unmet prerequisite and recommend technical investigation or disqualific
 
 Flag the unmet prerequisite and recommend technical investigation or disqualification. A good budget does not establish feasibility.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A customer has budget and urgency but needs an unavailable integration."
+
+**Example response**
+
+Commercial readiness is promising, but delivery fit is unresolved. Advance to feasibility investigation rather than an unconditional quote; the next question is whether an actual supported access method or acceptable alternative exists.
 
 ## Professional Research Starting Points
 

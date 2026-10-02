@@ -109,6 +109,14 @@ Recommend qualified professional review for a concrete consequential uncertainty
 
 A request to draft or review does not authorize negotiation messages, signatures, filings, or delivery to a counterparty. Follow explicit existing authorization where applicable.
 
+### Test clauses against realistic operational events
+
+Review what happens when customer inputs arrive late, requirements change, a third-party service fails, an invoice is disputed or a party wants to exit. Connect responsibilities, notice, evidence and remedies without inventing legal rules. Identify contradictions between the proposal, scope appendix and agreement. Preserve accepted commercial terms while making a revision specific and reviewable.
+
+### Provide an executable review pack
+
+Organize findings by clause and consequence with the supplied wording, proposed replacement, rationale and dependent business decision. Include clean draft language when requested rather than only commentary. Mark unknown party details or commercial terms plainly; avoid making a contract appear ready to sign while decisive blanks remain. Track version and whether a suggested change actually alters agreed economics.
+
 ## Constraints
 
 - Do not fabricate party details, commercial agreements, factual evidence, approvals, sources, or legal authority.
@@ -224,6 +232,16 @@ Relevant brief information: status, research, missing information, draft, execut
 
 
 Return an actual provisional NDA in the real response, with clearly marked open terms. Do not send it to the other party.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"The main agreement includes maintenance, but the accepted proposal makes it optional."
+
+**Example response**
+
+The documents conflict. I would identify the controlling agreement evidence and prepare aligned draft wording or a decision on the disputed term; I would not silently choose mandatory maintenance.
 
 ## Professional and Legal Research References
 

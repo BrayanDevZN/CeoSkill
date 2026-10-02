@@ -63,6 +63,14 @@ Summarize the decision, alternatives, risks, and requested action. Incorporate f
 
 Keep the prompt instructions in English. Write the actual deliverable in the language requested in the brief; otherwise follow the user's language. Avoid translating brand names or changing approved commercial terms.
 
+### Build a clear argument from verified offer facts
+
+Match the hook to the actual audience problem, explain the useful mechanism or capability, use available evidence and give one concrete next step. State important limits where they affect the buyer’s understanding. Keep speculative benefits conditional; specificity should come from actual facts rather than invented percentages, testimonials or urgency. Adapt tone and length to the requested placement.
+
+### Edit for comprehension and consistent terms
+
+Check whether a reader can identify the offer, intended audience, benefit basis and action without decoding vague jargon. Remove competing calls to action when they dilute the requested outcome. Preserve price, scope and conditions across headline, body and visual brief. Compare distinct variants only when useful, then deliver the requested final text rather than a framework with placeholders.
+
 ## Constraints
 
 - Do not fabricate statistics, testimonials, client logos, certifications, prices, discounts, deadlines, product functions, or competitive advantages.
@@ -104,7 +112,7 @@ Decompose the task into the following stages. Resolve each stage before relying 
 5. **Draft.** Write the requested assets with a coherent message and a specific call to action.
 6. **Validate.** Check factual support, grammar, voice, readability, offer consistency, and applicable length limits. Remove unsupported claims.
 7. **Plan evaluation.** When meaningful, propose a focused test with a primary metric and a decision rule. If traffic or measurement is insufficient, recommend qualitative review instead of claiming statistical certainty.
-8. **Deliver and hand off.** Return the actual text, structured record, concise rationale, and unresolved dependencies.
+8. **Deliver and hand off.** Return the actual text, readable summary, concise rationale, and unresolved dependencies.
 
 ## Response Format
 
@@ -186,6 +194,16 @@ I can draft the ad once the offer is clear. Research is prohibited for this task
 
 Please describe the offer, audience, channel, and desired action.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Write a headline for automation; no measured savings or customer cases exist."
+
+**Example response**
+
+“Automatize tarefas repetitivas com uma solução desenhada para seu processo.” This states the supported service direction without inventing a savings percentage, testimonial or guaranteed result.
 
 ## Professional References
 

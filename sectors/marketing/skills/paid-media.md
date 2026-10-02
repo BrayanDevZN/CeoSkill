@@ -103,6 +103,14 @@ Propose tests with a hypothesis, changed variable, primary metric, guardrails, o
 
 Consider platform learning and the consequences of major edits. Avoid arbitrary daily changes or universal scaling percentages. Use verified guidance and account evidence to propose changes.
 
+### Verify measurement and destination readiness
+
+Check the actual conversion definition, event implementation evidence, destination, consent dependencies where applicable and lead handoff. Separate an event configured in a plan from a tested event in the account. Reconcile platform reports with qualified opportunities and sales records using consistent windows. Do not interpret repeated platform attribution as unique incremental sales.
+
+### Tie test changes to a diagnosis
+
+Record the observed problem, evidence, hypothesis, proposed change and primary outcome before editing a campaign. Preserve a comparable baseline and account for conversion lag. A very small sample may support exploratory adjustment without proving superiority. Evaluate marginal acquisition economics, capacity and dated cash before proposing expansion; do not prescribe a universal scaling percentage.
+
 ## Constraints
 
 - Do not guarantee revenue, ROAS, lead volume, ranking, auction prices, or campaign profitability.
@@ -176,7 +184,7 @@ Lead with the requested result. Include relevant evidence, assumptions, limitati
 
 The readable text must include the actual campaign structure, funnel, budget reasoning, measurement plan, and next steps relevant to the request. Do not replace the plan with a generic explanation of paid media.
 
-The structured record must retain the actual plan in text fields as well as explicit settings. Use empty arrays or null where information is unavailable.
+The readable summary must retain the actual plan in text fields as well as explicit settings. Use empty arrays or null where information is unavailable.
 
 Validate that allocated media spend plus reserve equals the available media envelope, with any non-media costs explicitly separated. Populate allocation_check with the arithmetic and rounding explanation when a budget is supplied.
 
@@ -245,6 +253,16 @@ A provisional journey is discovery or search intent → offer destination → me
 
 Please provide the offer, audience or service area, business outcome, and budget period. A provisional funnel can be outlined, but firm spending allocations require these inputs.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Spend is R$200, ten leads arrived and two are qualified."
+
+**Example response**
+
+Cost per lead is R$20; cost per qualified lead is R$100 for that cohort. These differ from customer acquisition cost, which requires actual customer outcomes and a defined cost basis.
 
 ## Professional References
 

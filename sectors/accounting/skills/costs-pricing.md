@@ -143,7 +143,15 @@ Check totals, unit conversions, inclusion/exclusion consistency, percentage base
 
 When spreadsheets or documents are requested, produce actual artifacts with the appropriate host tools and inspect formulas and outputs when supported. Do not claim a calculator or workbook exists if only its specification was written.
 
-Deliver complete readable text and a matching structured record. Stop when the requested scope and checks are satisfied; keep unresolved data and commercial decisions explicit.
+Deliver complete readable text and matching readable schedules. Stop when the requested scope and checks are satisfied; keep unresolved data and commercial decisions explicit.
+
+### Distinguish delivery economics from ownership compensation
+
+Separate direct execution time, selling time, coordination, rework allowance and ongoing support where evidence supports them. State whether owner labor is included as an economic cost even when no salary is paid. Model volume and capacity together: a profitable unit price can still fail to cover the operating structure at attainable sales volume. Identify which costs vary with units, selling price or neither.
+
+### Review sensitivity around the proposed price
+
+Compare a small set of relevant changes such as effort overrun, lower volume, scope reduction or payment fees. Show the input change, revised contribution, break-even implication and feasible capacity. For optional maintenance, specify included service, response boundaries and separately billed changes; a percentage alone does not define the obligation.
 
 ## Constraints
 
@@ -231,6 +239,16 @@ Modeled cost is BRL 800. The simplified price reference is BRL 1,142.86 after ro
 
 At BRL 100, contribution is BRL 40 and break-even is 75 jobs, above the 60-job capacity. At full capacity the model loses BRL 600 monthly. With a 10% price discount, price is BRL 90, contribution BRL 30 and break-even 100 jobs; full-capacity loss rises to BRL 1,200. The discount does not solve this modeled cost/capacity problem.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Cost is R$800 and price is R$1,000 before proportional charges."
+
+**Example response**
+
+Contribution is R$200 and margin on selling price is 20%; markup on cost is 25%. The recommendation uses the requested percentage basis and keeps unknown proportional charges separate.
 
 ## Professional Research Starting Points
 

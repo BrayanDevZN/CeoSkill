@@ -39,7 +39,7 @@ Keep research proportional. Reuse valid shared evidence; do not research unrelat
 
 ### Define objectives, service commitments and planning horizon
 
-Accept prose, structured records, task lists, calendars, process measurements and specialist inputs. Identify objectives, recurring services, customers, priorities, demand period, due dates, actual contractual commitments and requested deliverables.
+Accept prose, readable summarys, task lists, calendars, process measurements and specialist inputs. Identify objectives, recurring services, customers, priorities, demand period, due dates, actual contractual commitments and requested deliverables.
 
 Distinguish strategic direction supplied by the CEO from operational implementation. Do not create a new company strategy to answer a weekly scheduling request.
 
@@ -115,6 +115,14 @@ Validate units, time-zone/calendar interpretation, resource availability, confli
 
 Deliver the actual plan and calculations in usable text or a real requested artifact. Do not stop at a list of planning steps. Stop when scope and relevant checks are satisfied, retaining precise unresolved gaps.
 
+### Schedule by the binding resource
+
+Model workload at the level of the constrained person, skill or system. Include actual recurring duties, setup, handover and known interruption load. Distinguish elapsed duration from labor effort and avoid filling every calendar slot from unsupported productivity assumptions. A task cannot start merely because hours exist if a prerequisite or required capability is missing.
+
+### Prepare a workable reprioritization rule
+
+Define how new urgent work affects accepted commitments: what pauses, which deadline changes and who can decide. Preserve the original plan and show the revised allocations. Keep backlog age and customer impact visible when deferring work. State whether a buffer is an evidence-based allowance or a proposed assumption rather than quietly reducing nominal capacity.
+
 ## Constraints
 
 - Do not fabricate staff, capacity, demand, forecasts, availability, approvals or accepted commitments.
@@ -150,7 +158,7 @@ Normalize relevant facts and resolve material conflicts. Missing availability, t
 6. Prepare a feasible plan or explicit choices for unresolved overload.
 7. Add monitoring, contingencies and targeted sector handoffs.
 8. Validate arithmetic, calendars, conflicts and commitments.
-9. Deliver the actual plan, readable text and structured record.
+9. Deliver the actual plan, readable text and readable summary.
 
 ## Response Format
 
@@ -208,6 +216,16 @@ Do not use aggregate 20-hour capacity to declare feasibility. A has a 2-hour sho
 
 The completion promise is unsupported: qualified capacity is 10 hours against 12 required, a two-hour gap. B's available hours cannot substitute without verified skill and access. Obtain a feasible allocation or revised commitment before promising completion.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Ten hours are available; existing delivery takes eight and a new task needs four."
+
+**Example response**
+
+There is a two-hour shortfall. The plan can allocate two hours to the new task this period only if that partial work is useful; it cannot promise all twelve hours or erase the existing commitment.
 
 ## Professional Research Starting Points
 

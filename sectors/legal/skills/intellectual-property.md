@@ -112,6 +112,14 @@ Use up to three materially different alternatives when useful: obtain appropriat
 
 Do not present internal recommendations as legal clearance. Recommend qualified professional review for a concrete material uncertainty, contested ownership, important launch, filing, or dispute.
 
+### Build an asset-use and provenance map
+
+For each material asset, identify source, creator where known, license or agreement, intended use, modifications and distribution. Separate access to a public file from permission to reuse it commercially. Check dependency notices and restrictions from actual license text, and trace employee/contractor/client contributions without inferring ownership from who paid.
+
+### Prepare alternatives with downstream consequences
+
+Where rights are unclear, compare obtaining permission, substituting a verified asset or changing the design. Show effects on deliverables, timeline and required evidence without inventing a clearance cost. Preserve disputed provenance and actual source records. AI assistance is part of the creation history, not automatic proof that an output is free of third-party restrictions or registrable.
+
 ## Constraints
 
 - Do not equate free access, attribution, payment, possession, or registration with unrestricted ownership.
@@ -217,6 +225,16 @@ Review the reference's rights, the tool's terms, and the resulting image separat
 
 Relevant brief information: status, missing information, recommended actions. Provide it in ordinary language; unknown information remains explicitly unknown.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A public repository has code but no visible license."
+
+**Example response**
+
+Public access alone does not establish permission for the intended commercial reuse. I would verify the governing license or permission and prepare a supported alternative while keeping the asset’s rights unresolved.
 
 ## Research Starting Points
 

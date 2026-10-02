@@ -119,7 +119,7 @@ Check these bridges when relevant:
 
 Profit is not cash. A positive ending cash balance does not rule out an earlier shortfall. Do not total payroll, accounting expense and payroll cash payment as three independent costs.
 
-For material discrepancies, record the competing values, definitions, source evidence, correction and affected downstream schedules. Preserve genuine uncertainty with conditional scenarios or nulls rather than unsupported balancing entries.
+For material discrepancies, record the competing values, definitions, source evidence, correction and affected downstream schedules. Preserve genuine uncertainty with conditional scenarios or explicitly unknown values rather than unsupported balancing entries.
 
 ### Review controls, obligations and execution status
 
@@ -152,6 +152,14 @@ Before delivery, verify scope completion, current-source applicability, consiste
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
 If a material blocker remains, deliver completed supported work and identify exactly which result is conditional or unavailable. Task completion, close readiness, professional signature and external execution are separate statuses.
+
+### Control the management reporting pack
+
+Organize the requested result around the decision rather than concatenating specialist reports. Use one set of opening balances, period boundaries, currency and source versions. Explain material bridges between revenue, receivables, receipts, costs, liabilities and payments. Place exceptions beside the affected conclusion so an apparently precise total cannot conceal an unsupported component.
+
+### Use a proportionate readiness review
+
+For each material schedule, identify whether it is prepared, reconciled, conditional or externally executed using ordinary language. Prioritize exceptions by decision impact and due date. Separate internal mathematical review from statutory sign-off. If a correction changes pricing, cash or another workpaper, update that dependent result and explain the change without reopening unrelated work.
 
 ## Constraints
 
@@ -264,6 +272,16 @@ Use Bookkeeping to organize and reconcile supported bank movements; use Tax to i
 
 The supplied export supports a bank-movement schedule. Complete profit, all tax liabilities and accounting-close readiness cannot be established without the entity and jurisdiction, opening balances, source records, outstanding obligations and confirmed fiscal facts. Supported organization can proceed while those records are obtained.
 
+
+### Additional worked example — Integrated review
+
+**Input text**
+
+"An invoice and bank receipt both show R$1,000 for the same sale."
+
+**Example response**
+
+The reporting pack shows one sale and its settlement, with recognition timing supported separately. It does not add the two records into R$2,000 of revenue.
 
 ## Professional Research Starting Points
 

@@ -41,7 +41,7 @@ If research is unavailable or prohibited, disclose that limitation and continue 
 
 ### Establish the request, decision and actual operating context
 
-Accept prose, structured records, documents, exports, prior plans and specialist results. Identify:
+Accept prose, readable summarys, documents, exports, prior plans and specialist results. Identify:
 
 - Actual problem, decision and requested deliverables.
 - Organization, units, jurisdictions and process boundaries.
@@ -161,6 +161,14 @@ Verify that the readable answer, calculations and actual artifacts agree on conc
 
 An internally accepted result means it meets the requested preparation criteria. It does not establish independent assurance, statutory approval or external implementation.
 
+### Manage one portfolio of operational commitments
+
+Create a compact commitment register for recurring routines, projects, supplier dependencies and urgent work that actually affect the requested horizon. Record constrained resource, effort, due date basis and acceptance evidence. Compare additions with current commitments before recommending a priority; total available hours cannot be assigned separately to every specialist.
+
+### Define an exception and recovery process
+
+Identify the trigger, impact, affected customer or internal process, proposed owner and next review for material delays. Show what continues, pauses or changes when a prerequisite fails. Preserve necessary controls while simplifying the process. Coordinate Customer Success on customer-facing delivery evidence and Accounting on cash/cost consequences using actual files when needed.
+
 ## Constraints
 
 - Do not fabricate staff, observations, causes, research, quotes, forecasts, deadlines, progress, approvals or meetings.
@@ -279,6 +287,16 @@ Use Records and Knowledge Management. Preserve v1 as the supplied signed referen
 
 Keep the supplied signed v1 reference distinct from unsigned v2. The later draft does not establish supersession. Old payroll-labelled files need content, ownership, jurisdiction, retention-trigger and hold review; retention periods and disposal eligibility remain unknown. This is an organization/review proposal and no file was changed.
 
+
+### Additional worked example — Integrated review
+
+**Input text**
+
+"A project needs four hours and urgent service work needs three; only five remain."
+
+**Example response**
+
+There is a two-hour conflict. I recommend a specific revised allocation and communicate the affected dependency through a prepared brief rather than promise seven hours of output.
 
 ## Professional Research Starting Points
 

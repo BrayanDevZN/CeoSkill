@@ -217,6 +217,8 @@ O ecossistema utiliza um padrão de instruções com:
 - **Few-Shot Examples:** exemplos de aplicação e casos que exigem cuidado.
 - **Professional Research Starting Points:** fontes iniciais para pesquisa.
 
+Cada função também detalha critérios de análise, tratamento de exceções, verificação dos entregáveis e exemplos práticos. Os gerentes reforçam a integração entre resultados; o CEO e o meeting definem como comparar decisões e acompanhar suas consequências. Esses detalhes orientam o trabalho sem exigir respostas longas para pedidos simples.
+
 As instruções são escritas em inglês. As respostas e os entregáveis seguem o idioma solicitado, ou o idioma do usuário.
 
 Os prompts orientam raciocínio privado e apresentação de justificativas concisas, fontes e cálculos reproduzíveis. As análises dependem dos dados fornecidos e da pesquisa efetivamente realizada.

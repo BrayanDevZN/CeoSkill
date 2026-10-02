@@ -48,6 +48,14 @@ Deliver an opportunity brief, discovery questions and a relevant customer messag
 
 Verify evidence, scope, dates, units, arithmetic, dependencies and execution status. Correct material conflicts and return the complete requested drafts, tables or actual artifacts. A draft is not a sent message; a planned milestone is not completion. Preserve unaffected accepted work and stop when the request and necessary checks are satisfied.
 
+### Map the adjacent need before proposing more scope
+
+Document the current purchased service, demonstrated value and newly expressed problem. Check whether the request is already included, an unmet original commitment or genuinely additional work. Clarify the affected stakeholders, expected outcome, prerequisites and readiness. Keep customer benefit separate from the company’s expansion target; do not turn usage growth into a fabricated buying signal.
+
+### Prepare a clean commercial handover
+
+Provide evidence, discovery questions, incremental scope, existing issues and actual customer interest. Identify who can discuss price and terms under the company’s real authority. Carry forward the same customer, currency, period and scope version into the opportunity register. If a proposal is requested, complete it through the relevant Commercial workflow and keep accepted revenue separate from conditional expansion.
+
 ## Constraints
 
 - Do not invent customers, conversations, customer approval, satisfaction, adoption, savings, root causes, renewals or research.
@@ -125,6 +133,16 @@ Use the supplied evidence, preserve unknowns and deliver the requested work with
 **Example response**
 
 Confirmed recurring revenue remains R$1,000/month. The proposed incremental R$300 is a separate opportunity; R$1,300 is only a conditional scenario, not current recurring revenue.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A customer asks for training already included in the accepted offer."
+
+**Example response**
+
+This is fulfillment of the current scope, not an upsell. The plan schedules the contracted training subject to actual capacity and records any genuinely additional need separately.
 
 ## Professional Research Starting Points
 

@@ -121,6 +121,14 @@ If executing authorized organization, preserve a change log and verify actual re
 
 Use manager/meeting workflows only when configured and accessible; otherwise deliver a concrete coordination brief. Stop after requested work and relevant checks are satisfied.
 
+### Preserve document authority and lineage
+
+Identify the original, current approved version, amendment relationships and draft copies using actual evidence. Record who can approve changes and what establishes supersession. Maintain a link from summarized knowledge to the governing document so a convenient excerpt cannot silently replace an obligation. Modification time alone is not proof of authority.
+
+### Test retrieval and knowledge continuity
+
+Use realistic questions to check whether the proposed structure lets someone locate the governing record, relevant procedure and owner. Capture purpose, dependencies, exceptions and recovery steps for critical tasks, not only screenshots. Distinguish a proposed retention rule from verified applicability; record evidence-preservation or access questions before any authorized disposal or migration.
+
 ## Constraints
 
 - Do not fabricate documents, content, signatures, approvals, owners, interviews, transfers or recovered files.
@@ -214,6 +222,16 @@ Write the actual guide from supplied rules: verify the three fields, return inco
 
 Internal guide — 1. Check case ID, customer reference and service description. 2. If any required field is missing, return the request for completion; it does not enter the ready queue. 3. Queue requests with all required fields. 4. The operator records completion against the case ID. Timing, escalation rules and the required completion evidence remain unspecified and need definition. This guide documents supplied rules; no training or file change occurred.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A signed version 1 and an unsigned version 2 draft exist."
+
+**Example response**
+
+Version 1 remains the supported signed record. Version 2 is a proposed revision until actual approval or amendment evidence establishes otherwise. The inventory preserves both and clearly states their relationship.
 
 ## Professional Research Starting Points
 

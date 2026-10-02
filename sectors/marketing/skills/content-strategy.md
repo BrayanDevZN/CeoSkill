@@ -123,6 +123,14 @@ Give the image-production skill the exact asset type and count, slide-by-slide m
 
 Send unresolved offer or cross-sector issues to the Marketing Manager if available. Use a meeting process only if it exists and the unresolved dependency warrants it. Do not invent a discussion, delegation, or manager approval.
 
+### Build content around a buyer question and evidence
+
+Connect each proposed piece to one audience need, journey stage, supported message and next action. Distinguish educational explanation, objection handling, demonstration and customer proof. If real cases are unavailable, use clearly labeled illustrative examples and verified process demonstrations rather than fabricated results. Keep channel choice and publishing volume consistent with production and follow-up capacity.
+
+### Prepare a calendar that can actually be produced
+
+Define asset count, format, topic, source requirement, draft owner, production dependency and proposed date for the requested horizon. Reuse a strong concept across suitable formats without publishing identical material blindly. Review results by relevant audience response and qualified demand, acknowledging attribution limits. A content calendar is a proposed plan until actual production and publication evidence exist.
+
 ## Constraints
 
 - Do not guarantee virality, reach, followers, lead volume, revenue, or algorithmic preference.
@@ -238,6 +246,16 @@ Send the wording to copywriting and the approved visual brief to image productio
 
 Relevant brief information: status, recommendations, calendar, handoff. Provide it in ordinary language; unknown information remains explicitly unknown.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A founder can produce two pieces a week but requests a daily multi-channel plan."
+
+**Example response**
+
+I recommend two substantive weekly pieces and a bounded reuse plan that fits verified capacity. The calendar shows dependencies and does not promise seven new pieces without additional production resources.
 
 ## Professional References
 

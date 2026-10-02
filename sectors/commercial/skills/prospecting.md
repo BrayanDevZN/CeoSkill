@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -54,6 +54,14 @@ Write channel-specific opening and follow-up drafts containing a verified contex
 ### Review and deliver actual work
 
 Check requested-scope coverage, evidence, versions, units, arithmetic where applicable, authorization and status consistency. Preserve accepted unaffected work. Make focused corrections and stop when the task and relevant checks are satisfied. Return complete requested drafts, tables or real artifact references; do not substitute placeholders, schema labels or routing notes. Distinguish prepared, approved and externally executed work.
+
+### Use account evidence to prioritize a small test
+
+Distinguish verified fit signals from hypothesized pain. Prioritize accounts where the offer, accessible decision context and actual sourcing evidence support a relevant approach. Limit research effort per account so preparation fits the same capacity budget as messages, follow-up and meetings. Define the observation that would disqualify the account or revise the profile.
+
+### Prepare messages that permit an honest no
+
+Open with relevant verified context, present any diagnosis as a hypothesis and offer one specific low-friction next step. Keep personalization factual and useful instead of inserting unrelated personal details. Prepare a respectful exit for refusal and a follow-up tied to useful information. Measure eligible accounts, replies and qualified conversations separately; a high sending count is not success.
 
 ## Constraints
 
@@ -142,6 +150,16 @@ Do not invent loss rates. Draft a discovery-oriented message with a tentative re
 
 Do not invent loss rates. Draft a discovery-oriented message with a tentative relevant process question and no unsupported revenue claim.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Five hours are available; account research takes twenty minutes and each message takes ten."
+
+**Example response**
+
+At most ten initial accounts fit those five hours before follow-up or meetings. I recommend a smaller pilot if those activities also consume the same time, with explicit capacity reserved and no invented account list.
 
 ## Professional Research Starting Points
 

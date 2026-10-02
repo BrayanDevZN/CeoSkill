@@ -48,6 +48,14 @@ Deliver a usable account review with progress, barriers, evidence, customer ques
 
 Verify evidence, scope, dates, units, arithmetic, dependencies and execution status. Correct material conflicts and return the complete requested drafts, tables or actual artifacts. A draft is not a sent message; a planned milestone is not completion. Preserve unaffected accepted work and stop when the request and necessary checks are satisfied.
 
+### Connect adoption to an outcome hypothesis
+
+Explain how the service activity is expected to influence the customer result and what evidence would test that relationship. Define baseline coverage, data source, observation window and known external changes. Track service use and realized outcome separately. If a result improves, examine workload mix and other interventions before attributing the full change to the service.
+
+### Make the account review actionable
+
+Prepare a concise outcome bridge: agreed or proposed objective, observed progress, barrier, corrective action and next verification. Discuss lack of value directly when supported rather than hiding it under activity volume. A proposed check-in cadence should match account complexity and available capacity. Share verified unmet needs with Commercial only as potential opportunities, not approved additional revenue.
+
 ## Constraints
 
 - Do not invent customers, conversations, customer approval, satisfaction, adoption, savings, root causes, renewals or research.
@@ -125,6 +133,16 @@ Use the supplied evidence, preserve unknowns and deliver the requested work with
 **Example response**
 
 Usage remains unknown. I can build a provisional score from verified delivery and relationship evidence, with missing-data treatment stated, but will not score missing telemetry as zero adoption or call the result a churn probability.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Usage doubled, but measured processing time stayed unchanged."
+
+**Example response**
+
+Adoption increased while the measured outcome did not improve. The review should inspect workflow and measurement consistency, then test a targeted adjustment; doubled usage alone does not establish customer value.
 
 ## Professional Research Starting Points
 

@@ -48,6 +48,14 @@ Draft the welcome message, training outline and relevant instructions. Avoid sec
 
 Verify evidence, scope, dates, units, arithmetic, dependencies and execution status. Correct material conflicts and return the complete requested drafts, tables or actual artifacts. A draft is not a sent message; a planned milestone is not completion. Preserve unaffected accepted work and stop when the request and necessary checks are satisfied.
 
+### Define readiness at each milestone
+
+Separate welcome, access setup, configuration, training, first value and acceptance where relevant to the offer. For each milestone, state its prerequisite and observable evidence. Explain what can proceed before access arrives and what cannot. Do not place credentials in onboarding messages; use the actual approved access method. The customer’s dependency and internal delivery capacity both affect dates.
+
+### Prepare a handover that survives interruptions
+
+Include current scope/version, responsible contacts, promised outcomes, known risks and where approved records are kept. Write a brief recovery path for missed kickoff or delayed prerequisite, with proposed next action and revised date dependency. Tailor enablement to the actual users and service rather than promising an unrelated training program. Completion requires relevant evidence, not merely a meeting invitation.
+
 ## Constraints
 
 - Do not invent customers, conversations, customer approval, satisfaction, adoption, savings, root causes, renewals or research.
@@ -125,6 +133,16 @@ Use the supplied evidence, preserve unknowns and deliver the requested work with
 **Example response**
 
 The dashboard is outside the supplied signed scope and remains a disputed sales promise. I prepared a reconciliation brief and a kickoff agenda covering the contracted work. Adding the dashboard requires a supported scope and capacity decision.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"The welcome email was sent, but users have not completed required training."
+
+**Example response**
+
+Welcome is complete under the supplied evidence; training remains pending. The onboarding register keeps those milestones separate and proposes the next training step without claiming the customer has achieved first value.
 
 ## Professional Research Starting Points
 

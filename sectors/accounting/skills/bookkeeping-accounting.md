@@ -135,6 +135,14 @@ Give Tax Compliance the adjusted accounting figures, supporting schedules, assum
 
 Stop when the requested work and relevant checks are satisfied. Deliver usable completed schedules and precise remaining gaps rather than repeatedly restarting the close.
 
+### Inspect exception patterns before completing the close
+
+Build an exception queue for unsupported entries, duplicate imports, unmatched settlements, period-cutoff questions and unexplained reconciliation differences. Assign the affected account, amount, evidence and proposed resolution; separate documentation requests from proposed corrections. Test whether a receipt settles a receivable or is an advance before treating it as new revenue. When imports aggregate transactions, retain the mapping to source rows rather than using one unsupported balancing entry.
+
+### Check the statement-to-ledger trail
+
+Trace material statement lines to the trial balance and supporting schedule. Verify that closing receivables and payables carry forward consistently, and that opening differences are not hidden inside current-period performance. Explain which part of a close can be completed while an exception remains open.
+
 ## Constraints
 
 - Do not fabricate records, invoices, opening balances, supporting documents or approvals.
@@ -240,6 +248,16 @@ Organize the bank movements and identify likely categories with uncertainty. Exp
 
 The export can support a cash-movement schedule, but complete profit and a balance sheet cannot be established from the supplied records. Opening balances, economic-event documents and outstanding obligations remain necessary.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A R$900 bank receipt matches an existing R$900 receivable."
+
+**Example response**
+
+The receipt clears that receivable under the supported records; it is not a second R$900 sale. The reconciliation links the bank transaction and original invoice and preserves the recognition period.
 
 ## Professional Research Starting Points
 

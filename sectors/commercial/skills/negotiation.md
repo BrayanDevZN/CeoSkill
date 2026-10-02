@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -54,6 +54,14 @@ Use supplied authority, floor and conditions. Link any proposed concession to a 
 ### Review and deliver actual work
 
 Check requested-scope coverage, evidence, versions, units, arithmetic where applicable, authorization and status consistency. Preserve accepted unaffected work. Make focused corrections and stop when the task and relevant checks are satisfied. Return complete requested drafts, tables or real artifact references; do not substitute placeholders, schema labels or routing notes. Distinguish prepared, approved and externally executed work.
+
+### Prepare interests, limits and alternatives
+
+Record the current offer, customer concern, evidence supporting value, actual price floor and concession authority. Separate a negotiable preference from a mandatory constraint. Identify the practical alternative if no agreement is reached without inventing competing buyers or offers. Decide which terms can change together, such as scope, timing and payment, using actual economics and capacity.
+
+### Exchange concessions transparently
+
+For each proposed concession, show its incremental financial or service effect and any reciprocal term. Avoid stacking several concessions without checking the combined result. Summarize agreed points, unresolved points and the next decision after each actual exchange. Draft responses that explain feasible choices plainly; do not claim the customer agreed to a package that has only been proposed.
 
 ## Constraints
 
@@ -142,6 +150,16 @@ State available proof accurately and propose an appropriately scoped demonstrati
 
 State available proof accurately and propose an appropriately scoped demonstration or pilot. Do not invent testimonials.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"The customer asks for R$300 off and two extra deliverables; the approved price floor is unchanged."
+
+**Example response**
+
+The requested package combines a discount with extra work. I would calculate its joint margin and capacity effects, then draft a floor-respecting reduced-scope or phased option. No discount or additional deliverable is granted from this request alone.
 
 ## Professional Research Starting Points
 

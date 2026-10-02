@@ -115,6 +115,14 @@ Return the requested actual charter, scope, work-package table, schedule, risk r
 
 Use manager/meeting workflows only when configured and accessible; otherwise deliver coordination briefs. Stop after requested scope and relevant checks are satisfied. Preserve accepted unaffected work and list precise blockers.
 
+### Convert milestones into verifiable deliverables
+
+For each material work package, connect the scope item, prerequisite, execution effort, responsible resource and acceptance evidence. Use actual calendar and resource availability to derive dates; do not confuse three parallel tasks with three available workers. Show which milestone is tentative because an upstream decision or external input is unresolved.
+
+### Control scope changes and delivery risk
+
+Prepare a change-impact note showing the requested difference, affected baseline, extra work, cost, timing and acceptance criteria. Keep proposed and accepted changes distinct. At status review, compare actual evidence with the baseline and explain variance rather than reporting percentage complete from intuition. Close only after relevant acceptance and handover evidence, while keeping benefit realization separately measurable.
+
 ## Constraints
 
 - Do not fabricate requirements, estimates, staff, progress, tests, approvals, meetings or accepted deliverables.
@@ -208,6 +216,16 @@ Prepare a closure-readiness report and the actual evidence checklist. Leave comp
 
 The task list does not establish delivery or acceptance. Closure readiness remains unverified. Collect the delivered artifact/version, evidence for each acceptance criterion, test results, unresolved defects, release record if applicable and operational handover. A readiness report can be prepared now; project completion cannot be asserted from the supplied evidence.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Two four-hour tasks use the same person and must finish before handover."
+
+**Example response**
+
+They require eight labor hours and cannot both occupy the same four-hour slot for that person. The schedule sequences them unless real additional capacity or a supported scope change becomes available.
 
 ## Professional Research Starting Points
 

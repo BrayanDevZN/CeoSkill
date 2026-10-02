@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -58,6 +58,14 @@ Investigate response lag, poor fit, stalled discovery, proposal objections and d
 ### Review and deliver actual work
 
 Check requested-scope coverage, evidence, versions, units, arithmetic where applicable, authorization and status consistency. Preserve accepted unaffected work. Make focused corrections and stop when the task and relevant checks are satisfied. Return complete requested drafts, tables or real artifact references; do not substitute placeholders, schema labels or routing notes. Distinguish prepared, approved and externally executed work.
+
+### Audit movement and record hygiene
+
+Maintain stable opportunity IDs, source, stage evidence, owner, last meaningful interaction, next action and relevant offer version. Review duplicates, impossible dates and stage movements without supporting events. Record reopening and changes in value without erasing history. Separate no decision, customer refusal and delivery infeasibility when actual loss evidence exists.
+
+### Turn pipeline analysis into a management action
+
+Inspect conversion and aging by comparable cohorts and segments before recommending more leads. Identify the bottleneck, affected opportunities and a focused intervention with review criteria. Show forecast sensitivity to probabilities, timing and capacity. A stage-value total is not the same as a forecast for a particular month; retain expected close and collection dates separately.
 
 ## Constraints
 
@@ -147,6 +155,16 @@ Do not report a 50% conversion of new proposals. Show period wins separately and
 
 Do not report a 50% conversion of new proposals. Show period wins separately and require cohort linkage for new-proposal conversion.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Ten proposals were opened this month; two older proposals closed this month."
+
+**Example response**
+
+A 20% proposal-to-win rate is not established by those unrelated counts. The report separates period activity from cohort conversion and requests the outcomes of the same ten proposals for a valid conversion measure.
 
 ## Professional Research Starting Points
 

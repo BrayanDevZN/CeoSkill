@@ -139,7 +139,15 @@ Use decimal-safe arithmetic, consistent periods, currencies and rounding. Check 
 
 Produce the actual requested report, model or schedules. Use appropriate artifact tools when a spreadsheet or document is requested and verify the generated output.
 
-Return readable text and a matching structured record. Stop when scoped analysis and checks are complete; keep material unknowns and external decisions explicit.
+Return readable text and matching readable schedules. Stop when scoped analysis and checks are complete; keep material unknowns and external decisions explicit.
+
+### Link model drivers to observable operations
+
+Use a compact assumption register connecting each material forecast driver to its source, owner, period and verification method. Tie sales volume to qualified demand, conversion evidence and delivery capacity; tie expense changes to an actual operational action. Separate one-time implementation effects from recurring run-rate changes. Preserve the approved budget as a baseline when updating the forecast.
+
+### Use downside cases to guide decisions
+
+Identify which assumption most changes the recommendation, then model a meaningful supported downside rather than arbitrary percentage changes across every line. Show earnings and dated cash consequences separately. Define a review trigger based on observed demand, cost or delivery evidence and state which investment could be paused without violating commitments.
 
 ## Constraints
 
@@ -227,6 +235,16 @@ Under the supplied hypothetical model, NPV = -1,000 + 600/1.10 + 600/1.10² = BR
 
 Doubling revenue is a target, not an evidence-based forecast. A conditional driver model can be prepared, but the baseline, customer or sales drivers, delivery capacity and timing are needed to estimate expected revenue.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Budget assumed ten jobs at R$200 each; actual volume is eight at R$200."
+
+**Example response**
+
+Actual revenue is R$1,600, R$400 below the R$2,000 budget. Price has not changed in these facts; the revenue shortfall is volume-related. Profit and cash effects require their own cost and collection records.
 
 ## Professional Research Starting Points
 

@@ -103,7 +103,7 @@ Check follow-up ownership, offer readiness and delivery capacity before recommen
 For each selected specialist, define:
 - Task ID and precise outcome.
 - Relevant instruction file.
-- Input text plus structured facts matching that specialist's schema.
+- Input text plus structured facts relevant to that specialist's task.
 - Shared business facts, audience, language, offer, and constraints.
 - Upstream deliverable or revision being used.
 - Required output and acceptance criteria.
@@ -113,7 +113,7 @@ For each selected specialist, define:
 
 Keep a concise shared brief as the source of truth. Do not let each specialist independently invent the offer, price, audience, or desired action.
 
-Do not pass the entire manager schema unchanged to every skill. Map relevant fields to the specialist's documented input names. Preserve ordinary text alongside structured facts.
+Do not pass the entire manager brief unchanged to every skill. Select the relevant facts and records, preserving ordinary language and necessary evidence.
 
 ### Execute the authorized work
 
@@ -176,6 +176,14 @@ If a meeting instruction file has been configured and is accessible, follow it f
 
 Do not block all marketing work because one branch needs a decision. Continue unaffected tasks. Do not change company-wide prices, guarantees, budgets, or policy on behalf of another sector.
 
+### Integrate strategy and production with one stable brief
+
+Keep audience, offer, claim evidence, next action and measurement definition consistent across acquisition, content, copy, images and paid media. Establish the direction before dependent production. A narrow image request needs the production workflow and material factual checks, not a new channel strategy. If the offer changes, identify every affected asset and destination.
+
+### Manage production readiness and commercial feedback
+
+Use a compact asset register when producing several outputs: actual file, placement, version, evidence for claims, inspection result and pending dependency. Coordinate qualification and follow-up with Commercial, and use verified Customer Success outcomes for proof only with actual permission and substantiation. Separate draft, generated, reviewed, approved and published status. Preserve failed test evidence when adjusting the plan.
+
 ## Constraints
 
 - Do not invent specialists, CEO decisions, meetings, independent agents, task completions, approvals, research, or file references.
@@ -220,7 +228,7 @@ Decompose the problem into stages and resolve each before dependent work. Reason
 7. **Review:** check specialist outputs against acceptance criteria and request focused corrections.
 8. **Integrate:** reconcile copy, visual assets, media settings, content priorities, and measurement.
 9. **Escalate if needed:** describe concrete cross-sector decisions while continuing unaffected work.
-10. **Deliver:** return actual text and assets, the consolidated structured record, evidence, and remaining decisions.
+10. **Deliver:** return actual text and assets, the consolidated readable summary, evidence, and remaining decisions.
 
 ## Response Format
 
@@ -324,6 +332,16 @@ Relevant brief information: selected workflow, execution. Provide it in ordinary
 
 
 The excerpt shows initial routing only; the final result must contain the actual completed plan and review.
+
+### Additional worked example — Integrated review
+
+**Input text**
+
+"The offer changed from mandatory maintenance to optional maintenance after images were generated."
+
+**Example response**
+
+The copy and every image or destination containing the old condition need targeted revision. Unchanged visual elements can be preserved; generation alone does not establish final approval or publication.
 
 ## Professional References
 

@@ -149,7 +149,15 @@ Produce actual requested draft payslips, workpapers, schedules or review finding
 
 Complete authorized preparation before identifying a remaining execution decision. Do not impose a new approval gate for routine research or drafting already requested.
 
-Return readable text and a complete structured record. Stop when scoped work and checks are satisfied; state precise remaining facts or professional-review needs without replacing useful work with generic disclaimers.
+Return readable text and complete readable schedules. Stop when scoped work and checks are satisfied; state precise remaining facts or professional-review needs without replacing useful work with generic disclaimers.
+
+### Control changes before calculating the pay run
+
+Prepare a change register for admissions, departures, remuneration changes, absences, variable earnings and bank-detail changes using actual supporting records. Separate effective date, approval evidence and payroll period. Flag missing or conflicting worker classification and treatment before applying dependent calculations. Do not infer working arrangements or legal entitlement solely from a label in a spreadsheet.
+
+### Reconcile individual results with aggregate funding
+
+Trace each material pay component to its calculation basis and source. Reconcile individual gross pay, deductions and net pay to totals, then prepare employer charges and remittance dates separately. Mask personal information in management summaries. A payment-file draft does not establish bank validation or employee payment; record real execution evidence separately.
 
 ## Constraints
 
@@ -232,6 +240,16 @@ The salary alone is insufficient to determine the termination payment. Admission
 
 Fictional deduction = BRL 1,000 × 5% + BRL 500 × 10% = BRL 100. Applying 10% to all BRL 1,500 would give BRL 150 and does not follow the supplied progressive method. This example establishes no real payroll obligation.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Gross pay is R$2,000 and supplied employee deductions total R$200."
+
+**Example response**
+
+Net pay is R$1,800 under those supplied components. Employer charges are a separate unresolved input; adding gross pay and net pay together would double-count employee compensation.
 
 ## Professional Research Starting Points
 

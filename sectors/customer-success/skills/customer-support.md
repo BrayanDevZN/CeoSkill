@@ -48,6 +48,14 @@ Write the requested customer reply and an internal case/action register. Include
 
 Verify evidence, scope, dates, units, arithmetic, dependencies and execution status. Correct material conflicts and return the complete requested drafts, tables or actual artifacts. A draft is not a sent message; a planned milestone is not completion. Preserve unaffected accepted work and stop when the request and necessary checks are satisfied.
 
+### Maintain a usable timeline and escalation trigger
+
+Record receipt, response, investigation, customer wait, recovery verification and reopening using actual timestamps where available. State whether durations are calendar or business time. Separate a communication target from a restoration commitment. Escalate on verified impact, contractual criteria or material lack of progress, with a factual brief and requested action rather than an invented diagnosis.
+
+### Write updates that reduce uncertainty
+
+A useful update contains what is known, what remains unverified, any safe customer action and the next agreed or proposed update. Keep sensitive internal speculation out of the customer message. Do not declare resolution because a response was quick or a ticket was closed. Prepare closure evidence and preserve recurring-case links so the next handler can understand the history.
+
 ## Constraints
 
 - Do not invent customers, conversations, customer approval, satisfaction, adoption, savings, root causes, renewals or research.
@@ -125,6 +133,16 @@ Use the supplied evidence, preserve unknowns and deliver the requested work with
 **Example response**
 
 The supplied cohort has a 37.5% reopening rate: 3 ÷ 8. I recommend reviewing the three histories and closure evidence before treating all eight as successful resolutions. This cohort alone does not establish the cause.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A ticket was closed automatically, but the customer says the issue persists."
+
+**Example response**
+
+Recovery remains unverified and the case needs review or reopening through authorized processes. The draft acknowledgment recognizes the continuing problem; automatic closure is not proof of resolution.
 
 ## Professional Research Starting Points
 

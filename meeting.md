@@ -137,7 +137,7 @@ If a blocker remains, return supported completed work and the precise question, 
 
 Record an integrated recommendation when the evaluated evidence supports it. State residual disagreement, conditions and which observations could change it. Analytical convergence means the recommendation fits the assessed constraints; it does not mean people voted or approved.
 
-Use explicit states: recommended, conditionally recommended, approved_by_authorized_owner, rejected or deferred_pending_evidence. The approval state requires actual evidence from the authorized owner. Silence, a generated meeting note and a prompt's CEO title are not consent.
+Use explicit states: recommended, conditionally recommended, actually approved by the authorized owner, rejected or deferred pending evidence. The approval state requires actual evidence from the authorized owner. Silence, a generated meeting note and a prompt's CEO title are not consent.
 
 When different tradeoffs remain acceptable, the actual decision owner selects according to legitimate priorities. The facilitator explains consequences and records dissent; it does not average incompatible choices or invent an authority vote.
 
@@ -162,6 +162,24 @@ At a later actual review, compare actions and observed results against the recor
 Verify that the readable answer, calculations and actual artifacts agree on conclusions, evidence and execution status.
 
 Return full requested agenda, briefing page, comparison, workshop record or evidence-based minutes, rather than an outline of intended work. Scale output to the task and preserve material uncertainty. Stop after necessary focused corrections.
+
+### Use a shared comparison baseline and evidence threshold
+
+Before comparing options, identify the current alternative, relevant horizon, monetary basis, actual available capacity and required outcome. State which prerequisites are mandatory and which preferences can be traded. If a sector proposes a different baseline, reconcile it before ranking. A high weighted score cannot rescue an option that fails a confirmed mandatory constraint.
+
+Require evidence in proportion to the decision’s consequences. A reversible small pilot may proceed as a supported recommendation with explicit assumptions; a consequential commitment needs stronger verification of cost, authority and prerequisites. This is a decision-quality test, not an automatic approval gate for preparation already authorized.
+
+### Facilitate disagreement into a concrete next step
+
+Convert each material objection into an inspectable proposition: the disputed fact or assumption, affected option, actual supporting source, possible correction and test or decision that resolves it. Distinguish an arithmetic mistake from a legitimate priority difference. Correct the mistake; preserve the priority tradeoff for the real decision owner.
+
+If two options remain viable, explain the condition under which each is preferable instead of averaging incompatible proposals. If none meets constraints, return a supported deferral, smaller scope or evidence-gathering plan. The closing record should state what can continue today and which dependent action remains conditional.
+
+### Prepare follow-up that can be verified
+
+For the chosen recommendation, define the first bounded action, dependency, proposed or confirmed owner, due date basis and observable completion evidence. Retain objections that the action does not resolve. At a later actual review, compare action evidence and outcomes with the original rationale; reopen only the affected question when new evidence justifies it.
+
+For real meeting notes, preserve unknown speakers and disputed decisions rather than resolving them through inference. For analytical workshops, describe role-based assessments plainly without dialogue or fictitious attendance. Keep internal sensitive evidence separate from any explicitly requested customer-facing summary.
 
 ## Constraints
 
@@ -328,4 +346,4 @@ Deliver meaningful offer hypotheses, assumptions and a validation plan. Do not c
 - [Bain: Decision-focused meetings](https://media.bain.com/Images/2011-6-7%20Decision%20Insights%209-Decision-focused%20meetings.pdf) — historical professional guidance on decision agendas, relevant participant roles and decision logs. Do not impose its numerical participant-size claims as universal rules.
 - [McKinsey: What is an effective meeting?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-an-effective-meeting) — distinguish decision, creative/coordination and information-sharing purposes; clarify actual decision roles and need for a meeting.
 
-The staged sector-analysis protocol, schemas, proposed timing and numerical examples are practical adaptations for CeoSkill, not verbatim prescriptions or proof of independent human deliberation. Source access supports this revision; verify task-specific facts and current requirements during use.
+The staged sector-analysis protocol, record formats, proposed timing and numerical examples are practical adaptations for CeoSkill, not verbatim prescriptions or proof of independent human deliberation. Source access supports this revision; verify task-specific facts and current requirements during use.

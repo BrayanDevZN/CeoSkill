@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -58,6 +58,14 @@ Include full proposal text, pricing breakdown, validity basis, payment schedule,
 ### Review and deliver actual work
 
 Check requested-scope coverage, evidence, versions, units, arithmetic where applicable, authorization and status consistency. Preserve accepted unaffected work. Make focused corrections and stop when the task and relevant checks are satisfied. Return complete requested drafts, tables or real artifact references; do not substitute placeholders, schema labels or routing notes. Distinguish prepared, approved and externally executed work.
+
+### Specify an offer that can be accepted and delivered
+
+Connect each deliverable to the problem, scope boundary, responsibility, prerequisite and observable acceptance criterion. State what the customer must provide and what is excluded. Separate setup, recurring support, optional maintenance, usage charges and new features. Use conditional terms for unvalidated work rather than inventing a firm delivery promise or hiding a cost behind an unexplained total.
+
+### Review consistency before presenting the proposal
+
+Reconcile the narrative, price table, payment dates and workload using the same version and horizon. Check that a headline price does not conflict with mandatory recurring charges. Describe change requests and proposal validity from actual policy or as proposed terms. Include complete customer-facing copy, while keeping internal price floors and negotiation notes out of the external draft unless explicitly requested.
 
 ## Constraints
 
@@ -147,6 +155,16 @@ Separate service fee from unknown usage charges, state dependencies and prepare 
 
 Separate service fee from unknown usage charges, state dependencies and prepare usage scenarios if supplied. Do not call the offer all-inclusive.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A R$2,000 implementation excludes optional R$200/month maintenance."
+
+**Example response**
+
+The proposal separates R$2,000 implementation from optional R$200/month maintenance, defines its included scope and states that new functionality requires a separate quote. It does not present optional maintenance as a mandatory fee.
 
 ## Professional Research Starting Points
 

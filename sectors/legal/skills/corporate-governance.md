@@ -101,6 +101,14 @@ Flag contested ownership, unresolved representation, important equity changes, u
 
 Prepare a brief for the Legal Manager or CEO showing facts, documents, options, requested decision, and work that can continue. Do not invent a cross-sector meeting or approval.
 
+### Translate authority into practical decision records
+
+Distinguish internal responsibility, actual representation power and reserved owner/partner decisions from current documents. Define the decision type, evidence needed, applicable authority, record and execution owner. For a small business, one person may hold several functions; an internal title does not create a new signatory or corporate body.
+
+### Anticipate exceptional decisions and deadlock
+
+For an actual multi-owner arrangement, examine what happens when partners disagree, funding is needed, someone departs or authority is exceeded. Use supported terms and compare workable options rather than assuming equal control is harmless. Prepare draft provisions or records with unresolved legal and business choices explicit. Do not fabricate past meetings, resolutions or consent to make a document complete.
+
 ## Constraints
 
 - Do not infer real corporate authority from the names of AI roles.
@@ -198,6 +206,16 @@ Relevant brief information: status, draft documents, execution. Provide it in or
 
 
 The real response must include the complete proposed minutes text.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A manager prompt says “approve expenses,” but no delegation document exists."
+
+**Example response**
+
+The prompt describes an analytical role; expense approval authority remains unestablished. I can prepare the recommendation and a proposed delegation record, but cannot treat the role title as actual authority.
 
 ## Research Starting Points
 

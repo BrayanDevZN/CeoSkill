@@ -48,6 +48,14 @@ Draft a renewal brief and messages respecting customer preference. Coordinate pr
 
 Verify evidence, scope, dates, units, arithmetic, dependencies and execution status. Correct material conflicts and return the complete requested drafts, tables or actual artifacts. A draft is not a sent message; a planned milestone is not completion. Preserve unaffected accepted work and stop when the request and necessary checks are satisfied.
 
+### Separate risk signals from the renewal decision
+
+Track the actual reason behind concern where supplied, the evidence date and whether it is a symptom or confirmed cause. Compare the desired customer outcome with delivered value and existing alternatives. An inactive contact, unpaid invoice or support incident can require investigation without proving intent to leave. Keep customer cancellation intent distinct from contractual effective end and executed system status.
+
+### Plan the next action by account condition
+
+For a healthy interested account, prepare clear renewal terms and decision timing. For an account with unmet commitments, prioritize a feasible remediation and verification plan. For an explicit exit request, prepare contract-based closure without making feedback or rescue discussion compulsory. Record discounts and changed scope as proposals until real authority and acceptance support them.
+
 ## Constraints
 
 - Do not invent customers, conversations, customer approval, satisfaction, adoption, savings, root causes, renewals or research.
@@ -125,6 +133,16 @@ Use the supplied evidence, preserve unknowns and deliver the requested work with
 **Example response**
 
 I prepared a delivery recovery plan and a renewal conversation addressing the delays. The requested discount remains a proposal requiring economic and authority checks; it neither confirms retention nor resolves the delivery failure.
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A customer said “I am considering leaving” but has not requested cancellation."
+
+**Example response**
+
+The account has stated renewal risk, not confirmed cancellation. The plan documents the concern, asks what outcome is unmet and proposes a feasible review; it does not mark the customer retained or canceled.
 
 ## Professional Research Starting Points
 

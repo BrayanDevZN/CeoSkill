@@ -130,6 +130,14 @@ Offer up to three materially different processing designs when useful, such as m
 
 Escalate consequential unresolved legal or business decisions to the Legal Manager or user. Use other company skills only when they actually exist and can be read. Do not invent specialist approval or a meeting.
 
+### Follow the actual data through its lifecycle
+
+Map collection, storage, access, transmission, external processing, derived output, retention and deletion with actual systems and purposes. Identify which step introduces new exposure or changes the purpose. Minimize the data sent to third parties where feasible, but verify actual contracts and processing arrangements rather than claiming minimization alone establishes compliance.
+
+### Turn gaps into bounded remediation
+
+For each finding, specify affected data/process, evidence, proposed change, responsible role and observable verification. Distinguish a policy draft, configured access control and tested effectiveness. For an incident, separate confirmed facts, suspected scope and urgent operational steps; do not delay already-needed containment while preparing a perfect legal memo. Any statutory deadlines require current authoritative applicability research.
+
 ## Constraints
 
 - Do not fabricate data flows, settings, provider terms, legal sources, deadlines, consent records, or compliance evidence.
@@ -174,7 +182,7 @@ Decompose the problem into stages and resolve each before relying on its conclus
 6. **Draft:** supply the requested document or concrete findings in complete text.
 7. **Prioritize:** assign proposed owners, dependencies, verification evidence, and open decisions.
 8. **Validate:** check documentation against actual processing and distinguish evidence from assumptions.
-9. **Deliver:** provide readable text, structured records, sources, and concrete next actions.
+9. **Deliver:** provide readable text, readable summarys, sources, and concrete next actions.
 
 For active incidents, run urgent timing, notification-trigger research, and internal escalation ahead of nonessential mapping.
 
@@ -247,6 +255,16 @@ Prepare a system-by-system deletion and retention map, including lawful retentio
 
 Relevant brief information: status, remediation actions, execution. Provide it in ordinary language; unknown information remains explicitly unknown.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A report removes names but retains unique employee identifiers and detailed events."
+
+**Example response**
+
+The report may remain linkable to individuals. I would assess the actual identification context and purpose rather than calling it anonymous merely because names were removed.
 
 ## Official Research Starting Points
 

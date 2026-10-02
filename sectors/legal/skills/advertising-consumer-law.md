@@ -125,6 +125,14 @@ If a claim is inside an image, flag that image as needing revision. Correcting a
 
 For a material issue, compare up to three options when useful: support and narrow the claim, rewrite it around verified functions, or remove it. Explain tradeoffs without staging a fictional approval meeting.
 
+### Review the entire customer-facing promise
+
+Inspect the headline, image wording, caption, landing page, checkout or proposal and material disclosures as a connected journey. Identify whether the combination implies a result beyond the literal claim. Compare price, recurring charges, eligibility, cancellation and support statements against actual terms. A disclaimer does not automatically repair a misleading central promise.
+
+### Prepare precise remediation and verification
+
+For each material issue, quote only the relevant supplied wording, explain the practical concern and provide replacement copy linked to verified facts. Identify every dependent asset requiring revision. Keep legal interpretation and factual substantiation distinct; label a draft correction as prepared rather than approved or published. Use actual jurisdiction and transaction evidence before asserting requirements.
+
 ## Constraints
 
 - Do not fabricate evidence, customer results, prices, permissions, endorsements, legal authority, or platform approvals.
@@ -164,7 +172,7 @@ Break the problem into stages and resolve each before relying on its conclusions
 6. Draft exact corrections, policies, or response wording when requested.
 7. Identify visual, contractual, privacy, or rights dependencies.
 8. Validate the revision against verified business facts and source applicability.
-9. Deliver readable findings, actual revised text, structured records, and concrete next actions.
+9. Deliver readable findings, actual revised text, readable summarys, and concrete next actions.
 
 ## Response Format
 
@@ -238,6 +246,16 @@ Do not promise a decision deadline that has not been checked or send the reply w
 
 Relevant brief information: status, missing information, draft deliverables, execution. Provide it in ordinary language; unknown information remains explicitly unknown.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"The image says “guaranteed savings”; the caption says results may vary."
+
+**Example response**
+
+The image still contains an unsupported guarantee. I would replace that embedded claim with a verified capability statement and align the caption and destination; editing the caption alone does not repair the asset.
 
 ## Research Starting Points
 

@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -54,6 +54,14 @@ Transfer agreed version, scope/exclusions, actual roles, timing, payment obligat
 ### Review and deliver actual work
 
 Check requested-scope coverage, evidence, versions, units, arithmetic where applicable, authorization and status consistency. Preserve accepted unaffected work. Make focused corrections and stop when the task and relevant checks are satisfied. Return complete requested drafts, tables or real artifact references; do not substitute placeholders, schema labels or routing notes. Distinguish prepared, approved and externally executed work.
+
+### Prepare follow-up around the actual next decision
+
+Identify the last meaningful interaction, promised action, outstanding question and buyer’s current decision stage. Use the follow-up to supply useful context or remove one obstacle, rather than repeat a generic request to buy. A proposed cadence should fit channel preferences, real availability and buying timing. Distinguish no reply, deferred interest, active objection and explicit refusal; do not interpret them as the same status.
+
+### Verify the closing and handover checklist
+
+Before recommending a won status, reconcile offer version, scope, actual acceptance and company-defined closing conditions. Show any pending signature, payment or start dependency separately. Hand Customer Success the actual commitments and unresolved risks rather than a sales summary that omits exceptions. For a loss, record the supported reason and a future review trigger only when relevant.
 
 ## Constraints
 
@@ -142,6 +150,16 @@ Record signed contract and pending payment separately; won conditions remain inc
 
 Record signed contract and pending payment separately; won conditions remain incomplete. Prepare the payment-status checklist without asserting receipt.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"The buyer approved scope by email, but the required signed agreement is missing."
+
+**Example response**
+
+Scope acceptance is evidenced; the signed agreement remains pending. I prepared a concise message identifying that next step and a provisional handover brief without marking all closing conditions complete.
 
 ## Professional Research Starting Points
 

@@ -143,6 +143,14 @@ Preserve stable decisions in downstream work. Compare multiple full strategies a
 
 After reviewing results, update the acquisition diagnosis and roadmap. Retain what works, explain evidence behind changes, and distinguish proposed changes from actual external actions.
 
+### Connect channel choice to a complete buying path
+
+For each selected channel, show audience access, message, destination, qualification, follow-up and sale dependency. Check whether the offer and sales response capacity can support the proposed volume. Compare near-term effort and cash use on the same horizon; a nominally free channel can still consume substantial labor. Avoid spreading a small test across too many unmeasurable activities.
+
+### Use a pilot to resolve a specific uncertainty
+
+Define the assumption under test, eligible audience, actual resource cap, observable business signal and review trigger. Distinguish a sourcing test from an offer test or controlled channel comparison. Keep failed qualification evidence and explicit refusals visible. Use supplied unit economics to judge affordability; no historical conversion data means a scenario, not a reliable acquisition forecast.
+
 ## Constraints
 
 - Do not guarantee customers, revenue, conversion rates or return on investment.
@@ -248,6 +256,16 @@ Do not purchase data or contact anyone. Assess audience relevance, source legiti
 
 A bulk list does not establish buyer fit or permission to use personal data. Use a targeted acquisition plan with verifiable audience criteria, a relevant offer and channel-compliant contact methods. Any unresolved privacy basis or contact restriction needs specific review before execution.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"A campaign generated twenty leads, of which two fit the offer."
+
+**Example response**
+
+Lead-to-qualified conversion is 10% for that supplied cohort. The next review should inspect targeting, message and qualification evidence rather than automatically increase spend because lead volume rose.
 
 ## Professional Research Starting Points
 

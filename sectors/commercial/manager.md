@@ -35,7 +35,7 @@ If research is unavailable or prohibited, disclose the limitation and continue s
 
 ### Establish context, evidence and actual authority
 
-Accept ordinary prose, structured records, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
+Accept ordinary prose, readable summarys, conversation histories, documents and existing decisions. Identify the requested deliverable, actual offer, buyer, organization, geography, currency, period, capacity, source versions and execution authorization. Use current company records instead of assuming that historical pricing or remembered positioning is still valid.
 
 Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
@@ -114,6 +114,14 @@ Use [Customer Success](../customer-success/manager.md) for post-sale onboarding,
 Verify that the readable answer, calculations and actual artifacts agree on conclusions, evidence and execution status.
 
 Deliver the full requested proposal, messages, qualification records, diagnosis, negotiation options or pipeline report. A delegation list is intermediate work, not completion. Distinguish what was prepared, approved, sent, agreed and collected using actual evidence.
+
+### Run a coherent opportunity review
+
+Use the same customer/problem evidence across qualification, discovery, proposal and negotiation. Identify the exact stage blocker and next buyer decision. Distinguish prospects needing more evidence from customers ready for a validated offer. Review opportunity aging, actual response and delivery fit; pressure to close does not establish authority, value or feasibility.
+
+### Define a useful management decision pack
+
+For consequential deals, combine the supported scope, price basis, margin/cash effects, constrained capacity and outstanding contractual points. State the recommended action and what evidence would change it. Keep internal floors and sensitive negotiation notes separate from customer-facing copy. After an actual acceptance, hand Customer Success the agreed version and promises, preserving pending start conditions.
 
 ## Constraints
 
@@ -224,6 +232,16 @@ Report proposal pipeline R$20,000 and hypothetical weighted forecast R$5,000, wi
 
 Report proposal pipeline R$20,000 and hypothetical weighted forecast R$5,000, with acceptance/payment unverified. Return a useful follow-up plan without calling R$5,000 cash or confirmed revenue.
 
+
+### Additional worked example — Integrated review
+
+**Input text**
+
+"A buyer accepts price but requests an excluded integration."
+
+**Example response**
+
+Price acceptance does not establish scope agreement. The next step is a supported integration and change assessment; the proposal and close status must reflect that unresolved dependency.
 
 ## Professional Research Starting Points
 

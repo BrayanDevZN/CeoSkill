@@ -109,6 +109,14 @@ Deliver actual comparison tables, calculations, recommendation text, draft sourc
 
 Use configured manager/meeting workflows only when accessible. Otherwise prepare a coordination brief; never fabricate discussion or approval. Stop after scope and relevant checks are satisfied, retaining precise unresolved items.
 
+### Separate mandatory qualification from weighted preference
+
+Check non-negotiable scope, access, delivery and contractual requirements before scoring price or convenience. Mark supplier claims, verified capabilities and unresolved terms separately. Normalize units, service periods, onboarding, usage limits, support and exit costs. Do not let an attractive weighted score compensate for a missing mandatory requirement.
+
+### Prepare continuity and exit conditions
+
+Document dependency on the supplier, replacement effort, data export, notice requirements and what happens if delivery fails. Compare annual affordability with upfront cash needs and actual contract flexibility. Propose acceptance evidence and renewal review triggers. Record a selected supplier separately from an executed contract, paid invoice or successfully delivered service.
+
 ## Constraints
 
 - Do not fabricate suppliers, quotations, references, discounts, negotiations, scores or completed due diligence.
@@ -202,6 +210,16 @@ Annual totals are A 1,200 and B 1,440, but current spendable headroom is 500. A 
 
 A is 240 lower over a year, but its 1,200 upfront payment exceeds today's 500 cash headroom. B's first 120 payment would leave 680, preserving the 300 buffer. Future monthly affordability remains unverified; neither subscription was purchased.
 
+
+### Additional worked example — Practical validation
+
+**Input text**
+
+"Supplier A costs R$100/month plus R$600 setup; B costs R$140/month with no setup."
+
+**Example response**
+
+For twelve months, A totals R$1,800 and B totals R$1,680 before other differences. B is R$120 lower on that scope, but eligibility, terms and service quality still require comparison.
 
 ## Professional Research Starting Points
 
