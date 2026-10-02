@@ -8,8 +8,8 @@ Ecossistema de instruções em Markdown para transformar demandas de negócio em
 
 ![Markdown](https://img.shields.io/badge/Markdown-Prompt%20System-111827?style=for-the-badge&logo=markdown&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-Skills-412991?style=for-the-badge)
-![Setores](https://img.shields.io/badge/Setores-5-2563EB?style=for-the-badge)
-![Especialidades](https://img.shields.io/badge/Especialidades-30-059669?style=for-the-badge)
+![Setores](https://img.shields.io/badge/Setores-6-2563EB?style=for-the-badge)
+![Especialidades](https://img.shields.io/badge/Especialidades-36-059669?style=for-the-badge)
 
 [Como funciona](#como-funciona) · [Começar](#começar) · [Setores](#setores-e-especialidades) · [Reuniões](#reuniões-entre-setores) · [Estrutura](#estrutura-do-repositório)
 
@@ -60,7 +60,7 @@ flowchart TD
     V --> D["Entregáveis e próximos passos"]
 ```
 
-O carregamento é progressivo: uma solicitação simples não precisa mobilizar os cinco setores ou abrir uma reunião.
+O carregamento é progressivo: uma solicitação simples não precisa mobilizar os seis setores ou abrir uma reunião.
 
 ## Começar
 
@@ -104,8 +104,9 @@ Não é necessário fornecer dados em um formato técnico. Os prompts aceitam li
 | **Contabilidade e Finanças** | [manager.md](sectors/accounting/manager.md) | Escrituração, conformidade tributária, caixa e tesouraria, custos e preços, planejamento e análise financeira, folha de pagamento |
 | **Jurídico** | [manager.md](sectors/legal/manager.md) | Contratos, privacidade e proteção de dados, publicidade e consumidor, propriedade intelectual, governança societária e pesquisa jurídica |
 | **Administração** | [manager.md](sectors/admin/manager.md) | Melhoria de processos, planejamento operacional, gestão de projetos, compras e fornecedores, desempenho operacional e gestão de documentos/conhecimento |
+| **Relacionamento com Clientes / Sucesso do Cliente** | [manager.md](sectors/customer-success/manager.md) | Onboarding, acompanhamento de resultados, atendimento e suporte, satisfação e reclamações, retenção e renovação, expansão de contas |
 
-São **cinco setores e 30 especialidades internas**. Os arquivos especializados são carregados pelos gerentes; não precisam ser registrados como 30 skills independentes.
+São **seis setores e 36 especialidades internas**. Os arquivos especializados são carregados pelos gerentes; não precisam ser registrados como 36 skills independentes.
 
 ## O papel do CEO
 
@@ -172,6 +173,17 @@ $ceo Quero conquistar os primeiros clientes de um serviço de automação.
 Avalie os segmentos e canais com os dados disponíveis.
 Proponha um teste limitado, critérios de sucesso e condições para parar.
 ```
+
+### Pós-venda e retenção
+
+```text
+$ceo Organize o onboarding deste cliente e um plano de acompanhamento.
+Use Sucesso do Cliente e valide o escopo aceito com o Comercial.
+Defina o primeiro resultado observável, responsáveis, dependências e critérios de conclusão.
+Prepare as mensagens, sem enviá-las.
+```
+
+Sucesso do Cliente acompanha resultados e riscos após a venda. O Comercial cuida das propostas, preços, negociação e fechamento de renovação ou expansão; os setores compartilham evidências e compromissos reais.
 
 ### Revisão entre setores
 

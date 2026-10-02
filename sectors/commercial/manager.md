@@ -105,6 +105,10 @@ Use [Administration](../admin/manager.md) for shared capacity, project schedulin
 
 For a substantive strategic choice, compare up to three materially different feasible options, their evidence, economics, effort and risks. Recommend one with concise rationale and identify the decision owner. Do not force three ideas for routine work or simulate discussion, votes and consensus.
 
+### Handover to Customer Success
+
+Use [Customer Success](../customer-success/manager.md) for post-sale onboarding, outcomes, support, feedback and retention readiness. Supply the actual accepted offer/version, exclusions, commitments, known customer objectives, contacts and start dependencies. Commercial retains qualification, pricing, negotiation and closing of renewal or expansion; Customer Success supplies verified value and risk evidence. Do not mark a handover as completed from reading instructions or treat expansion interest as accepted scope.
+
 ### Validate and deliver the integrated result
 
 Verify that the readable answer, calculations and actual artifacts agree on conclusions, evidence and execution status.

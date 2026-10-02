@@ -1,6 +1,6 @@
 ---
 name: ceo
-description: Operate a business through a CEO-led ecosystem of specialist sector managers. Use when the user requests CEO or company-style decision support, business strategy, priorities, resource allocation, cross-sector coordination, an internal management meeting, or business work involving Marketing, Commercial, Accounting/Finance, Legal or Administration. Also use when the user explicitly invokes CeoSkill or this CEO skill.
+description: Operate a business through a CEO-led ecosystem of specialist sector managers. Use when the user requests CEO or company-style decision support, business strategy, priorities, resource allocation, cross-sector coordination, an internal management meeting, or business work involving Marketing, Commercial, Accounting/Finance, Legal, Administration or Customer Success (onboarding, support, outcomes, retention, renewals and account expansion). Also use when the user explicitly invokes CeoSkill or this CEO skill.
 ---
 
 # CeoSkill — Entry Point
@@ -34,6 +34,7 @@ Do not preload every manager or specialist, or invoke a meeting for every task. 
 | Accounting Manager | [sectors/accounting/manager.md](sectors/accounting/manager.md) | Accounting and financial control, cash, pricing, planning, taxes and payroll |
 | Legal Manager | [sectors/legal/manager.md](sectors/legal/manager.md) | Contracts, privacy, consumer/advertising matters, IP and governance |
 | Administration Manager | [sectors/admin/manager.md](sectors/admin/manager.md) | Processes, capacity, projects, procurement, performance and records |
+| Customer Success Manager | [sectors/customer-success/manager.md](sectors/customer-success/manager.md) | Post-sale onboarding, outcomes, support, feedback, retention, renewal and expansion |
 
 Sector specialists are referenced by their manager files. Do not invent missing Technology, HR or other sectors.
 

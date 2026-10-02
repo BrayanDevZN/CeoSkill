@@ -81,6 +81,7 @@ For a real meeting, propose distributing or reading the page as part of preparat
 | Accounting and Finance | [sectors/accounting/manager.md](sectors/accounting/manager.md) | Price/cost basis, margin, cash timing and financial scenarios |
 | Legal | [sectors/legal/manager.md](sectors/legal/manager.md) | Actual obligations, clauses, claims, data and material legal uncertainty |
 | Administration | [sectors/admin/manager.md](sectors/admin/manager.md) | Capacity, process, schedule, dependencies and operational evidence |
+| Customer Success | [sectors/customer-success/manager.md](sectors/customer-success/manager.md) | Customer outcomes, onboarding, support evidence, complaints, retention and renewal/expansion readiness |
 
 Read selected managers before applying them; let each select its specialists. Do not include all sectors automatically or bypass their domain workflows. Identify missing technical expertise instead of treating Administration as engineering certification.
 
@@ -102,7 +103,7 @@ Provide each selected manager a bounded brief with task ID, question, shared evi
 
 Request a concise sector record: assessment, evidence, option or recommendation, costs/resource effects, objections, conditions, uncertainties and what would change the conclusion. Do not ask for long role-play speeches.
 
-When exploring an unsettled strategic issue, develop up to three meaningfully different options overall. Do not require three ideas from every sector and create fifteen near-duplicates. If the user specifically requests three per sector, produce that bounded exploration first, then deduplicate and explain consolidation.
+When exploring an unsettled strategic issue, develop up to three meaningfully different options overall. Do not require three ideas from every sector and create many near-duplicates. If the user specifically requests three per sector, produce that bounded exploration first, then deduplicate and explain consolidation.
 
 In a single-agent workshop, evaluate the relevant perspectives in separate stages before integration but label them as model analysis under each sector's instructions. This structure reduces premature synthesis; it does not establish statistical independence or professional review.
 
