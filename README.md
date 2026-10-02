@@ -93,7 +93,7 @@ A presença dos arquivos no GitHub não instala a skill automaticamente. O regis
 
 Informe o objetivo, o serviço ou produto, o público, os recursos disponíveis, o horizonte e o resultado esperado. Acrescente documentos e decisões existentes quando forem relevantes.
 
-Não é necessário enviar JSON. Os prompts aceitam linguagem natural e normalizam os dados durante o trabalho.
+Não é necessário fornecer dados em um formato técnico. Os prompts aceitam linguagem natural e normalizam os dados durante o trabalho.
 
 ## Setores e especialidades
 
@@ -199,9 +199,9 @@ O ecossistema utiliza um padrão de instruções com:
 - **Role:** responsabilidade e limites do papel.
 - **Behavior:** práticas de trabalho e tratamento de evidências.
 - **Constraints:** limites de escopo, autoridade e execução.
-- **Input:** entrada livre e esquema estruturado opcional.
+- **Input:** entrada livre e contexto necessário para o trabalho.
 - **Problem-Solving Workflow:** sequência de execução.
-- **Structured Output:** resultado legível e JSON correspondente.
+- **Response Format:** resposta em linguagem natural, tabelas e entregáveis conforme o pedido.
 - **Few-Shot Examples:** exemplos de aplicação e casos que exigem cuidado.
 - **Professional Research Starting Points:** fontes iniciais para pesquisa.
 
@@ -213,7 +213,7 @@ Os prompts orientam raciocínio privado e apresentação de justificativas conci
 
 Conforme a demanda, o CeoSkill pode preparar propostas, planos de ação, análises financeiras, comparações, registros de decisão, pautas, textos e outros materiais.
 
-O contrato de saída prevê **texto legível e JSON com as mesmas conclusões**, incluindo evidências, hipóteses, lacunas, entregáveis e status de execução. Arquivos e ações externas dependem das capacidades disponíveis no ambiente.
+O contrato de saída prevê **respostas em linguagem natural, tabelas e arquivos conforme o pedido**, incluindo evidências, hipóteses, lacunas, entregáveis e status de execução. Arquivos e ações externas dependem das capacidades disponíveis no ambiente.
 
 Uma análise completa pode concluir que faltam informações para aprovar uma iniciativa. Nesse caso, o resultado deve identificar a condição pendente e concluir o trabalho que já é possível.
 

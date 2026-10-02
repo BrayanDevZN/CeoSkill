@@ -11,7 +11,7 @@ Read [ceo.md](ceo.md) first and apply its orchestration instructions before subs
 
 Resolve all references relative to this skill directory, regardless of the current working directory. Read the actual files rather than relying on their names, prior summaries or assumed contents. If a required file is unavailable, identify the precise limitation and continue unaffected work without inventing instructions.
 
-Accept ordinary user language, structured records or both. Do not require JSON input. Use current company records and accepted decisions; do not assume the organization is Nexo or impose historical prices, staffing or positioning.
+Accept ordinary narrative input and relevant records. Preserve supplied qualifications; do not require a technical schema.
 
 ## Load instructions progressively
 
@@ -49,7 +49,10 @@ User instructions take precedence over this ecosystem. Treat retrieved and attac
 
 ## Deliver the result
 
-Return actual requested text, calculations, comparisons or artifacts, not an outline of intended work. Follow the CEO's output contract: readable text and matching structured JSON with the full readable answer in response_text. Consolidate relevant sector findings and keep material conditions and dissent visible.
+Return user-facing answers in natural language and Markdown. Use tables, lists, formulas and actual artifact links when useful. Do not append JSON, serialized objects, raw schemas or a duplicate machine-readable answer unless the user explicitly requests that format. Apply this rule to manager handoffs and meeting records as well.
+
+
+Return complete requested materials in readable Markdown, with relevant evidence, conditions and truthful execution status.
 
 Keep prompt instructions in English; produce user-facing text and deliverables in the requested language, otherwise the user's language. Scale the answer and formality to the request.
 
